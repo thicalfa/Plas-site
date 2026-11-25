@@ -303,9 +303,11 @@ Observação: o briefing diz que a PJ não tem medidas, mas várias páginas da 
 
 ## 10. Pendências gerais com o dono (do briefing)
 
-- [ ] **WhatsApp da PLAS** (com DDD), para o botão de orçamento
+- [x] WhatsApp: (11) 95991-1262, tirado do site da PJ (autorizado pelo dono)
 - [ ] **Plano da Hostinger**: roda PHP? `.htaccess` funciona? (decide o formulário de orçamento)
-- [ ] **CNPJ e endereço completo**, para o rodapé, o Google Meu Negócio e os dados estruturados
+- [x] Endereço: Rua Nápoli, 106, Vila Metalúrgica, Santo André/SP (site da PJ)
+- [ ] **CEP** do endereço (não aparece no site da PJ)
+- [ ] **CNPJ**: o dono envia depois
 - [ ] **Logo em alta resolução**, de preferência SVG. O atual é PNG 500 x 500 px, todo em cinza-grafite (#484343), sem cor
 - [ ] URL do **Profitize** (templates), se quiser que seja usado como fonte
 - [x] Skills da Emil: instaladas

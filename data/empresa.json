@@ -1,0 +1,20 @@
+{
+  "_fonte": "Telefone, e-mail e redes: site antigo da PLAS. WhatsApp e endereço: site da PJ Comercial (mesmo dono), autorizado pelo dono em 25/11/2026.",
+  "nome": "PLAS Distribuidora",
+  "telefone": "(11) 4421-1714",
+  "telefoneE164": "+551144211714",
+  "whatsapp": "(11) 95991-1262",
+  "whatsappE164": "5511959911262",
+  "whatsappMensagem": "Olá! Gostaria de pedir um orçamento.",
+  "email": "vendas@plasdistribuidora.com.br",
+  "endereco": {
+    "rua": "Rua Nápoli, 106",
+    "bairro": "Vila Metalúrgica",
+    "cidade": "Santo André",
+    "uf": "SP",
+    "cep": null
+  },
+  "cnpj": null,
+  "instagram": "https://www.instagram.com/plasdistribuidora/",
+  "facebook": "https://www.facebook.com/plasdistribuidora/"
+}

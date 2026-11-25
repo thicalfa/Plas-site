@@ -143,9 +143,11 @@ w("")
 w("## 10. Pendências gerais com o dono (do briefing)")
 w("")
 for done, item in [
-    (False, "**WhatsApp da PLAS** (com DDD), para o botão de orçamento"),
+    (True, "WhatsApp: (11) 95991-1262, tirado do site da PJ (autorizado pelo dono)"),
     (False, "**Plano da Hostinger**: roda PHP? `.htaccess` funciona? (decide o formulário de orçamento)"),
-    (False, "**CNPJ e endereço completo**, para o rodapé, o Google Meu Negócio e os dados estruturados"),
+    (True, "Endereço: Rua Nápoli, 106, Vila Metalúrgica, Santo André/SP (site da PJ)"),
+    (False, "**CEP** do endereço (não aparece no site da PJ)"),
+    (False, "**CNPJ**: o dono envia depois"),
     (False, "**Logo em alta resolução**, de preferência SVG. O atual é PNG 500 x 500 px, todo em cinza-grafite (#484343), sem cor"),
     (False, "URL do **Profitize** (templates), se quiser que seja usado como fonte"),
     (True, "Skills da Emil: instaladas"),
