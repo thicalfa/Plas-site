@@ -232,6 +232,7 @@ def build(p):
         "slug": NEW_SLUG.get(p["slug"]) or slugify(DISPLAY_NAME.get(p["slug"], clean_name(p["name"]))),
         "oldSlug": p["slug"],
         "oldUrl": p["permalink"],
+        "source": "plas",
         "category": None,
         "subcategory": None,
         "sourceTitle": ls[0] if ls else None,
@@ -377,11 +378,70 @@ def build(p):
     return rec
 
 
+# Produtos que só existem na PJ Comercial. Decisão do dono (25/11/2026): manter.
+# Dados transcritos da página de cada produto na PJ, sem alteração.
+PJ_ONLY = [
+    {
+        "name": "Gaveteiro Plástico Bin Nº 9 – 50 litros", "slug": "gaveteiro-plastico-bin-n9-50-litros",
+        "pjSlug": "gaveteiro-plastico-bin-no-9-50-litros", "pjTitle": "Gaveteiro Plástico Bin Nº 9 – 50 Litros",
+        "category": "cestos-e-gaveteiros", "subcategory": "gaveteiros",
+        "specs": [
+            {"label": "Dimensões externas (largura x comprimento x altura)", "value": "39 x 57,5 x 23 cm"},
+            {"label": "Capacidade volumétrica", "value": "50 litros"},
+            {"label": "Capacidade de carga por caixa", "value": "22 kg"},
+            {"label": "Peso", "value": "1,72 kg"},
+            {"label": "Cubagem por volume", "value": "0,103 m³ (8 unidades)"},
+            {"label": "Material", "value": "Polipropileno"},
+        ],
+        "dimensions": {"external": {"raw": "39 x 57,5 x 23 cm", "cm": [39.0, 57.5, 23.0], "unit": "cm",
+                                    "order": "largura x comprimento x altura"}},
+        "volumeL": 50.0, "weightKg": 1.72, "colors": ["azul", "preto"],
+        "loads": [{"label": "Carga por caixa", "kg": 22.0, "raw": "22 kg"}],
+        "packaging": "8 unidades por volume (0,103 m³)",
+        "image": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/be4d9242-41eb-4daa-84b7-1187fa646fa2.webp",
+    },
+    {
+        "name": "Pallet de Contenção IBC 1000 litros – 4 tambores", "slug": "pallet-de-contencao-ibc-1000-litros-4-tambores",
+        "pjSlug": "pallet-de-contencao-ibc-1000-litros-04-tambores", "pjTitle": "Pallet de contenção IBC 1000 Litros - 04 tambores",
+        "category": "pallets", "subcategory": "pallets-de-contencao",
+        "specs": [
+            {"label": "Largura", "value": "2000 mm"},
+            {"label": "Altura", "value": "650 mm"},
+            {"label": "Comprimento", "value": "1500 mm"},
+            {"label": "Carga", "value": "1300 kg"},
+            {"label": "Contenção", "value": "1000 L"},
+            {"label": "Material", "value": "PEAD ou PEMD"},
+            {"label": "Peso", "value": "100 kg"},
+        ],
+        "dimensions": {"overall": {"raw": "65 x 200 x 150 cm (altura x largura x comprimento)", "cm": [65.0, 200.0, 150.0], "unit": "cm"}},
+        "volumeL": 1000.0, "weightKg": 100.0, "colors": ["amarelo", "laranja", "cinza"],
+        "loads": [{"label": "Carga", "kg": 1300.0, "raw": "1300 kg"}],
+        "packaging": None,
+        "image": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/3064720c-72c0-45f8-b73d-51396b9c37b6.png",
+    },
+]
+
+
+def extra_products():
+    out = []
+    for i, x in enumerate(PJ_ONLY):
+        out.append({
+            "id": f"pj-{i + 1}", "name": x["name"], "oldName": x["pjTitle"], "slug": x["slug"], "oldSlug": None,
+            "oldUrl": f"https://pjcomercial.com.br/{x['pjSlug']}", "source": "pj",
+            "category": x["category"], "subcategory": x["subcategory"], "sourceTitle": x["name"],
+            "specs": x["specs"], "features": [], "dimensions": x["dimensions"], "volumeL": x["volumeL"],
+            "weightKg": x["weightKg"], "m3PerUnit": None, "colors": x["colors"], "loads": x["loads"],
+            "packaging": x["packaging"], "lidOptional": False, "categoryProvisional": False,
+            "images": [{"src": x["image"], "original": x["image"], "oldAlt": ""}],
+        })
+    return out
+
+
 def main():
     raw = []
     for f in RAW:
         raw += json.load(open(f))
-    products = [build(p) for p in raw]
+    products = [build(p) for p in raw] + extra_products()
 
     # nomes de arquivo de imagem por produto
     manifest = []
@@ -410,7 +470,7 @@ def main():
     # redirecionamentos 301 (URLs antigas -> novas) e 410 (lixo do tema WP)
     redirects = []
     for pr in products:
-        if pr["category"]:
+        if pr["category"] and pr["oldSlug"]:
             redirects.append({"from": f"/produto/{pr['oldSlug']}/", "to": f"/produtos/{pr['category']}/{pr['slug']}/"})
     parent_of = {}
     for c in json.load(open(ROOT / "raw/categories.json")):

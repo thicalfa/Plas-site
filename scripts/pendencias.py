@@ -19,19 +19,27 @@ def br(t):
     """[16.5, 59.8, 70.6] -> 16,5 x 59,8 x 70,6 cm; 0.088 -> 0,088"""
     t = re.sub(r"\[([\d., ]+)\]", lambda m: " x ".join(x.strip() for x in m.group(1).split(",")) + " cm", t)
     t = re.sub(r"(\d+)\.(\d+)(?!\d* ?Kg\.\")", r"\1,\2", t)
-    return t.replace(".0 ", " ").replace(",0 ", " ").replace("≠", "não bate com")
+    return t.replace("≠", "não bate com")
 
 
 THIRD_PARTY = ["larplasticos", "arcos", "galia", "maxicaixa", "ecopallet", "smart"]
 
 L = []
 w = L.append
-w("# Pendências da extração (fase a)")
+w("# Pendências")
+w("")
+w("**Status: fase (a), extração de dados e imagens, concluída em 25/11/2026.** Próxima: fase (b), proposta visual.")
 w("")
 w("Gerado por `scripts/pendencias.py` a partir dos dados do site antigo. **Nada aqui foi corrigido por conta própria.**")
-w("No site novo, medidas com erro de digitação aparecem como \"a confirmar\" até o dono responder.")
 w("")
-w(f"Resumo: **{len(products)} produtos**, **{sum(len(p['images']) for p in products)} fotos da PLAS**, "
+w("Decisões do dono (25/11/2026), registradas também em `DECISOES.md`:")
+w("")
+w("- Os dados das seções 1 a 3 vão para o site **como estão escritos no site antigo**; o dono corrige depois, se for o caso.")
+w("- Os produtos que só existem na PJ (seção 8) **entram no site**.")
+w("- Produtos sem peso ficam **sem peso** (seção 6).")
+w("- O uso de todas as fotos (inclusive as com nome de fabricante) **está liberado**.")
+w("")
+w(f"Resumo: **{len(products)} produtos**, **{sum(len(p['images']) for p in products)} fotos de produto no catálogo**, "
   f"**{sum(len(o['images']) for o in pj)} fotos de produto da PJ** ({sum(1 for o in pj if o['match'])} produtos da PJ associados).")
 w("")
 
@@ -72,7 +80,7 @@ for i in issues:
 if miss:
     w("## 6. Dados faltando")
     w("")
-    w("A ficha técnica desses produtos fica sem o campo até o dono enviar o dado.")
+    w("Decisão do dono: esses produtos ficam sem o campo na ficha técnica. Lista mantida só para referência.")
     w("")
     w("| Produto | Falta |")
     w("|---|---|")
@@ -98,30 +106,30 @@ w("")
 for n, ww, hh in sorted(low, key=lambda x: x[1]):
     w(f"  - {n} ({ww} x {hh} px)")
 w("")
-w("- Fotos cujo nome de arquivo cita outra marca ou fabricante. O briefing diz que as fotos são do dono; "
-  "só confirmar se há autorização do fabricante para uso (é comum revendedor poder usar):")
-w("")
-for kw in THIRD_PARTY:
-    hits = [p["name"] for p in products if any(kw in i["src"].lower() for i in p["images"])]
-    if hits:
-        w(f"  - \"{kw}\": {', '.join(hits)}")
+w("- Fotos com nome de fabricante no arquivo: uso liberado pelo dono (resolvido).")
 w("")
 
 # 8. PJ
 w("## 8. PJ Comercial")
 w("")
+pj_only = [p for p in products if p.get("source") == "pj"]
+w("Produtos que existem só na PJ. **Decisão do dono: entram no site**, com os dados da página da PJ:")
+w("")
+for p in pj_only:
+    w(f"- **{p['name']}** → `/produtos/{p['category']}/{p['slug']}/`")
+w("")
 unmatched = [o for o in pj if not o["match"]]
-w("Produtos que existem na PJ mas **não** foram encontrados no site da PLAS. Podem ser itens que faltam no catálogo "
-  "(o briefing diz que a lista do site antigo é incompleta). Não entram no site novo sem confirmação:")
-w("")
-for o in unmatched:
-    w(f"- **{o['pjTitle']}** (`{o['pjSlug']}`): {o['pjDesc'][:220].strip()}")
-w("")
+if unmatched:
+    w("Fotos da PJ que não foram associadas a nenhum produto (ficam em `assets/originals/pj/sem-associacao/`):")
+    w("")
+    for o in unmatched:
+        w(f"- **{o['pjTitle']}**: {o['pjDesc'][:160].strip()} (não dá para saber se é a Miami ou a Miami Club)")
+    w("")
 w("Observação: o briefing diz que a PJ não tem medidas, mas várias páginas da PJ têm. Os dados técnicos do site novo vêm só da PLAS.")
 w("")
 
 # 9. mudanças de nome/endereço
-changed = [p for p in products if p["slug"] != p["oldSlug"]]
+changed = [p for p in products if p["oldSlug"] and p["slug"] != p["oldSlug"]]
 w("## 9. Endereços (URLs) que mudaram")
 w("")
 w(f"{len(changed)} produtos tinham endereço antigo diferente do nome (ex.: o \"Kit Completo do Carrinho Funcional de Limpeza\" "
@@ -134,17 +142,20 @@ w("")
 
 w("## 10. Pendências gerais com o dono (do briefing)")
 w("")
-for item in [
-    "CNPJ da PLAS (aparece no rodapé; não consta no site antigo)",
-    "Número de WhatsApp da PLAS",
-    "Endereço completo (o site antigo só diz Santo André/SP)",
-    "Confirmar as medidas das seções 1 a 3",
-    "Lista completa de produtos (ver também a seção 8)",
-    "Logo em alta resolução (de preferência SVG). O logo atual (PNG 500 px) é todo em cinza-grafite (#484343), sem cor: a cor de destaque do site será uma proposta, a aprovar",
-    "Plano da Hostinger (suporta PHP e `.htaccess`?)",
-    "Autorização para usar Google Analytics (se desejado)",
+for done, item in [
+    (False, "**WhatsApp da PLAS** (com DDD), para o botão de orçamento"),
+    (False, "**Plano da Hostinger**: roda PHP? `.htaccess` funciona? (decide o formulário de orçamento)"),
+    (False, "**CNPJ e endereço completo**, para o rodapé, o Google Meu Negócio e os dados estruturados"),
+    (False, "**Logo em alta resolução**, de preferência SVG. O atual é PNG 500 x 500 px, todo em cinza-grafite (#484343), sem cor"),
+    (False, "URL do **Profitize** (templates), se quiser que seja usado como fonte"),
+    (False, "Arquivo `e597fed1-skills-main_2.zip` (skills da Emil) na pasta do projeto"),
+    (False, "Autorização para usar Google Analytics (se desejado)"),
+    (False, "**Referências visuais** do dono (seção 9.1.1 do briefing)"),
+    (True, "Medidas a confirmar: publicar como estão (decisão do dono)"),
+    (True, "Lista completa de produtos: a API trouxe os 159 do sitemap antigo + 2 só da PJ = 161"),
+    (True, "Uso das fotos: liberado"),
 ]:
-    w(f"- [ ] {item}")
+    w(f"- [{'x' if done else ' '}] {item}")
 w("")
 
 (ROOT / "PENDENCIAS.md").write_text("\n".join(L), encoding="utf-8")

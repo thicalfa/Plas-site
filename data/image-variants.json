@@ -2188,6 +2188,16 @@
   "hasAlpha": false,
   "format": "webp"
  },
+ "gaveteiro-plastico-bin-n9-50-litros": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
  "kit-completo-do-carrinho-funcional-de-limpeza": {
   "w": 207,
   "h": 181,
@@ -2945,6 +2955,16 @@
   ],
   "hasAlpha": false,
   "format": "jpeg"
+ },
+ "pallet-de-contencao-ibc-1000-litros-4-tambores": {
+  "w": 1024,
+  "h": 1536,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
  },
  "pallet-plastico-empilhavel": {
   "w": 480,
@@ -4159,6 +4179,16 @@
   "hasAlpha": false,
   "format": "webp"
  },
+ "pj/gaveteiro-plastico-bin-n9-50-litros": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
  "pj/kit-completo-do-carrinho-funcional-de-limpeza": {
   "w": 207,
   "h": 181,
@@ -4553,6 +4583,16 @@
   "hasAlpha": false,
   "format": "jpeg"
  },
+ "pj/pallet-de-contencao-ibc-1000-litros-4-tambores": {
+  "w": 1024,
+  "h": 1536,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
  "pj/pallet-plastico-empilhavel": {
   "w": 2048,
   "h": 2048,
@@ -4684,26 +4724,6 @@
   ],
   "hasAlpha": false,
   "format": "jpeg"
- },
- "pj/sem-associacao/gaveteiro-plastico-bin-no-9-50-litros": {
-  "w": 1000,
-  "h": 1000,
-  "widths": [
-   480,
-   768
-  ],
-  "hasAlpha": false,
-  "format": "webp"
- },
- "pj/sem-associacao/pallet-de-contencao-ibc-1000-litros-04-tambores": {
-  "w": 1024,
-  "h": 1536,
-  "widths": [
-   480,
-   768
-  ],
-  "hasAlpha": false,
-  "format": "png"
  },
  "poltrona-com-braco": {
   "w": 1400,

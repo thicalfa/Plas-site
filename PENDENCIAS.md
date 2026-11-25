@@ -1,21 +1,29 @@
-# Pendências da extração (fase a)
+# Pendências
+
+**Status: fase (a), extração de dados e imagens, concluída em 25/11/2026.** Próxima: fase (b), proposta visual.
 
 Gerado por `scripts/pendencias.py` a partir dos dados do site antigo. **Nada aqui foi corrigido por conta própria.**
-No site novo, medidas com erro de digitação aparecem como "a confirmar" até o dono responder.
 
-Resumo: **159 produtos**, **343 fotos da PLAS**, **147 fotos de produto da PJ** (135 produtos da PJ associados).
+Decisões do dono (25/11/2026), registradas também em `DECISOES.md`:
+
+- Os dados das seções 1 a 3 vão para o site **como estão escritos no site antigo**; o dono corrige depois, se for o caso.
+- Os produtos que só existem na PJ (seção 8) **entram no site**.
+- Produtos sem peso ficam **sem peso** (seção 6).
+- O uso de todas as fotos (inclusive as com nome de fabricante) **está liberado**.
+
+Resumo: **161 produtos**, **345 fotos de produto no catálogo**, **147 fotos de produto da PJ** (137 produtos da PJ associados).
 
 ## 1. Medidas com erro de digitação ou sem unidade
 
 | Produto | Problema |
 |---|---|
-| Cesto de Pão 51 litros | Medidas Externa: "16,5 x 59,8 x 70,6 cm" está com erro de digitação (provável: 16,5 x 59,8 x 70,6 cm) |
-| Cesto de Pão 40 litros | Medidas Externa: "15,5 x 58 x 66,5 cm" está com erro de digitação (provável: 15,5 x 58 x 66,5 cm) |
+| Cesto de Pão 51 litros | Medidas Externa: "16,5,0 x 59,8 x 70,6 cm" está com erro de digitação (provável: 16,5 x 59,8 x 70,6 cm) |
+| Cesto de Pão 40 litros | Medidas Externa: "15,5,0 x 58,0 x 66,5 cm" está com erro de digitação (provável: 15,5 x 58,0 x 66,5 cm) |
 | Espreguiçadeira Miami Club | Medidas: "28,0×67,0×190,0" sem unidade (provavelmente cm) |
 | Espreguiçadeira Miami | Medidas: "28,0×67,0×190,0" sem unidade (provavelmente cm) |
-| Pá Catabituca em Aço Inox | Medidas (caçamba aberta): "82,0, x 22,8 x 11,7 cm" está com erro de digitação (provável: 82 x 22,8 x 11,7 cm) |
+| Pá Catabituca em Aço Inox | Medidas (caçamba aberta): "82,0, x 22,8 x 11,7 cm" está com erro de digitação (provável: 82,0 x 22,8 x 11,7 cm) |
 | Pallet Contenção 4 Tambores 150 litros | Comprimento com Rampa: "206,90" é um número só, sem unidade |
-| Lixeira 100 litros com pedal | Medidas: "92,5 x 42,5 x 59,5 cm" está com erro de digitação (provável: 92,5 x 42,5 x 59,5 cm) |
+| Lixeira 100 litros com pedal | Medidas: "92,5 x 42,5 x 59,5,0 cm" está com erro de digitação (provável: 92,5 x 42,5 x 59,5 cm) |
 
 ## 2. Cubagem (m³/unidade) e volume que não batem com as medidas
 
@@ -24,8 +32,8 @@ Conferido em todos os produtos que informam cubagem: m³ = altura x largura x co
 | Produto | Problema |
 |---|---|
 | Cesto de Pão 51 litros | cubagem informada 0,5495 m³ não bate com medidas externas prováveis 16,5 x 59,8 x 70,6 cm (0,0697 m³) |
-| Bandeja 18 | volume 18 L vs medidas internas 8,5 x 34 x 53 cm (~15,3 L) |
-| Bandeja 04 | cubagem informada 0,088 m³ não bate com medidas externas 7 x 30 x 42 cm (0,0088 m³) |
+| Bandeja 18 | volume 18,0 L vs medidas internas 8,5 x 34,0 x 53,0 cm (~15,3 L) |
+| Bandeja 04 | cubagem informada 0,088 m³ não bate com medidas externas 7,0 x 30,0 x 42,0 cm (0,0088 m³) |
 
 ## 3. Pesos com número ambíguo
 
@@ -59,7 +67,7 @@ Para o cliente conseguir diferenciar, o nome exibido ganhou a capacidade ou a me
 
 ## 6. Dados faltando
 
-A ficha técnica desses produtos fica sem o campo até o dono enviar o dado.
+Decisão do dono: esses produtos ficam sem o campo na ficha técnica. Lista mantida só para referência.
 
 | Produto | Falta |
 |---|---|
@@ -232,22 +240,18 @@ A ficha técnica desses produtos fica sem o campo até o dono enviar o dado.
   - Caixa Vazada 64 (709 x 613 px)
   - Container Plástico 660 litros (739 x 620 px)
 
-- Fotos cujo nome de arquivo cita outra marca ou fabricante. O briefing diz que as fotos são do dono; só confirmar se há autorização do fabricante para uso (é comum revendedor poder usar):
-
-  - "larplasticos": Pallet Contenção 2 Tambores 75 litros, Carro Para Caixa 180 litros, Lixeira plástica 120 litros, Container Rotomoldado 1000 litros com Tampa Bipartida, Caixa Fechada 130 litros (40,5 x 55,5 x 76 cm)
-  - "arcos": Poltrona com braço
-  - "galia": Caixa Galia 1322
-  - "maxicaixa": Caixa Pallet GLT
-  - "ecopallet": Pallet Plástico Empílhável
-  - "smart": Pallet Plástico Liso 6 Runners, Pallet Plástico Liso 3 Runners, Pallet Plástico Liso, Pallet Plástico Vazado 6 Runners, Pallet Plástico Vazado 3 Runners, Pallet Plástico Vazado
+- Fotos com nome de fabricante no arquivo: uso liberado pelo dono (resolvido).
 
 ## 8. PJ Comercial
 
-Produtos que existem na PJ mas **não** foram encontrados no site da PLAS. Podem ser itens que faltam no catálogo (o briefing diz que a lista do site antigo é incompleta). Não entram no site novo sem confirmação:
+Produtos que existem só na PJ. **Decisão do dono: entram no site**, com os dados da página da PJ:
 
-- **Espreguiçadeira** (`espreguicadeira`): Espreguiçadeira Cores disponíveis – Branco
-- **Gaveteiro Plástico Bin Nº 9 – 50 Litros** (`gaveteiro-plastico-bin-no-9-50-litros`): Dimensões Externas 39cmx57,5cmx23cm (LarguraxComprimentoxAltura Capacidade volumétrica 50 litros Capacidade de carga por caixa 22 kg Peso 1,72 kg Cubagem por volume 0,103 m³ (8 unidades) Cores Disponíveis Polipropileno:
-- **Pallet de contenção IBC 1000 Litros - 04 tambores** (`pallet-de-contencao-ibc-1000-litros-04-tambores`): IBC 1000 LITROS – 04 Tambores Largura: 2000 mm | Altura: 650 mm | Comprimento: 1500 mm Capacidades: Carga 1300 kg | Contenção 1000 L Material: PEAD ou PEMD Peso: 100 kg Cores: Amarelo Laranja Cinza
+- **Gaveteiro Plástico Bin Nº 9 – 50 litros** → `/produtos/cestos-e-gaveteiros/gaveteiro-plastico-bin-n9-50-litros/`
+- **Pallet de Contenção IBC 1000 litros – 4 tambores** → `/produtos/pallets/pallet-de-contencao-ibc-1000-litros-4-tambores/`
+
+Fotos da PJ que não foram associadas a nenhum produto (ficam em `assets/originals/pj/sem-associacao/`):
+
+- **Espreguiçadeira**: Espreguiçadeira Cores disponíveis – Branco (não dá para saber se é a Miami ou a Miami Club)
 
 Observação: o briefing diz que a PJ não tem medidas, mas várias páginas da PJ têm. Os dados técnicos do site novo vêm só da PLAS.
 
@@ -299,11 +303,14 @@ Observação: o briefing diz que a PJ não tem medidas, mas várias páginas da 
 
 ## 10. Pendências gerais com o dono (do briefing)
 
-- [ ] CNPJ da PLAS (aparece no rodapé; não consta no site antigo)
-- [ ] Número de WhatsApp da PLAS
-- [ ] Endereço completo (o site antigo só diz Santo André/SP)
-- [ ] Confirmar as medidas das seções 1 a 3
-- [ ] Lista completa de produtos (ver também a seção 8)
-- [ ] Logo em alta resolução (de preferência SVG). O logo atual (PNG 500 px) é todo em cinza-grafite (#484343), sem cor: a cor de destaque do site será uma proposta, a aprovar
-- [ ] Plano da Hostinger (suporta PHP e `.htaccess`?)
+- [ ] **WhatsApp da PLAS** (com DDD), para o botão de orçamento
+- [ ] **Plano da Hostinger**: roda PHP? `.htaccess` funciona? (decide o formulário de orçamento)
+- [ ] **CNPJ e endereço completo**, para o rodapé, o Google Meu Negócio e os dados estruturados
+- [ ] **Logo em alta resolução**, de preferência SVG. O atual é PNG 500 x 500 px, todo em cinza-grafite (#484343), sem cor
+- [ ] URL do **Profitize** (templates), se quiser que seja usado como fonte
+- [ ] Arquivo `e597fed1-skills-main_2.zip` (skills da Emil) na pasta do projeto
 - [ ] Autorização para usar Google Analytics (se desejado)
+- [ ] **Referências visuais** do dono (seção 9.1.1 do briefing)
+- [x] Medidas a confirmar: publicar como estão (decisão do dono)
+- [x] Lista completa de produtos: a API trouxe os 159 do sitemap antigo + 2 só da PJ = 161
+- [x] Uso das fotos: liberado

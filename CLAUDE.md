@@ -96,21 +96,91 @@ Categorias: Caixas Plásticas (Vazadas, KLT, Fechadas), Bandejas, Lixeiras (Cole
 - Aparência B2B profissional, limpa e moderna, que transmita confiança e robustez. Cores baseadas no logo da PLAS (extrair do arquivo do logo).
 - Mobile first, acessível (contraste AA, foco visível, navegação por teclado), animações sutis que respeitam `prefers-reduced-motion`.
 - Fotos padronizadas (mesmo enquadramento e fundo quando possível).
-- Usar as skills instaladas: `frontend-design`, `web-design-guidelines`, `security-and-hardening`, `seo`.
+
+### 9.1 Skills de design: instalar e ordem de precedência
+Rode cada comando na pasta do projeto, leia a saída completa (se for longa, redirecione para um arquivo temporário e leia o arquivo) e siga as instruções geradas. Caminhos relativos são resolvidos a partir da pasta de arquivos de apoio que o comando informar.
+
+```
+npx skills use "https://github.com/leonxlnx/taste-skill" --skill "design-taste-frontend"
+npx skills use "https://github.com/pbakaus/impeccable" --skill "impeccable"
+npx skills use "https://github.com/microsoft/playwright-cli" --skill "playwright-cli"
+```
+
+**Quarta skill (arquivo `e597fed1-skills-main_2.zip`, repositório `emilkowalski/skills`):** o dono vai colocar o zip na pasta do projeto. Extraia e copie para `.claude/skills/` **só** estas: `emil-design-eng`, `review-animations`, `animation-performance`, `break-ui` e `prototype`. Não copie as de Swift, Expo e mobile (`write-swift`, `animate-expo`, `mobile-native`), porque não servem para este site. Alternativa: `npx skills@latest add emilkowalski/skills`.
+
+Skills demais brigam entre si. Por isso, **ordem de precedência** quando houver conflito:
+
+| Ordem | Skill | Papel neste projeto |
+|---|---|---|
+| 1 | `frontend-design` | Direção estética geral e identidade visual |
+| 2 | `design-taste-frontend` | Evitar cara de template genérico ("cara de IA"): tipografia, espaçamento, hierarquia |
+| 3 | `web-design-guidelines` | Checagem de UI e acessibilidade |
+| 4 | `impeccable` | Revisão crítica e polimento no fim de cada fase |
+| 5 | `emil-design-eng` e demais da Emil | Só micro-interações e movimento (hover, transições, entrada de seções) |
+| 6 | `playwright-cli` | Testar em navegador real, tirar screenshots (celular e desktop) e checar erros de console |
+| 7 | `break-ui` | Estressar os cards e páginas de produto com nomes longos, itens sem foto, listas vazias |
+
+Regras: (a) use no máximo duas skills de design por etapa; (b) se duas discordarem, vale a ordem da tabela e a decisão fica registrada em `DECISOES.md`; (c) **desempenho, acessibilidade, SEO e segurança vencem a estética**: se um efeito pesar no carregamento ou prejudicar a leitura, corte o efeito.
+
+### 9.1.1 O que é "bonito": quem decide é o dono, com referências dele
+O Claude Code não deve escolher sozinho o visual. **Antes de propor qualquer layout**, faça isto, nesta ordem:
+1. **Peça ao dono as referências dele**: links de sites que ele gosta, componentes ou templates do 21st.dev e do Profitize, e/ou prompts prontos que ele queira usar. Pergunte também o que ele gosta e não gosta em cada um (cores, ritmo, densidade de informação).
+2. **Dê a sua recomendação de como o site deveria ser**, em texto curto, para o dono sair procurando referências parecidas: estilo geral (ex.: industrial limpo, moderno corporativo), paleta sugerida a partir do logo, tipo de tipografia, tipo de foto, nível de animação, exemplos de seções que funcionam em sites B2B de indústria e distribuição. Dê também 5 palavras-chave de busca (em português e em inglês) e 3 tipos de sites de referência que ele deveria procurar.
+3. Espere o dono responder com as referências. Só então monte a proposta visual da seção 9.2, explicando o que aproveitou de cada referência.
+
+Se o dono não tiver referências, diga isso e siga com a sua recomendação, sem inventar que ele aprovou.
+
+### 9.2 Proposta visual (antes de programar a fase b)
+Apresentar ao dono, e esperar aprovação, uma proposta com: paleta (extraída do logo), tipografia (no máximo 2 famílias, com `font-display: swap` e hospedadas no próprio site), grid e layout da home (hero, categorias, setores, produtos em destaque, prova de confiança, CTA de orçamento, rodapé). Gere 2 ou 3 variações do hero em HTML estático (use a skill `prototype`) para o dono escolher.
+
+### 9.3 Templates e componentes: o que coletar (referência visual, não cópia)
+O site é feito em código (Astro). Templates de Framer, Webflow ou WordPress **não são importados**: servem como inspiração de layout. Componentes React + Tailwind do 21st.dev podem ser adaptados.
+
+**Fontes**
+- **21st.dev**: biblioteca de componentes React + Tailwind no formato shadcn, com comando de instalação por componente e opção de colar o prompt direto no Claude Code. Funciona com Astro, mas a licença não aparece na página principal: **conferir a licença de cada componente antes de usar**. No Astro, use componentes React só onde precisar de interação (`@astrojs/react` em "ilhas"); o resto, converta para Astro para manter o site leve.
+- **Profitize**: não consegui localizar esse site de templates. O dono deve passar a URL. Até lá, ignorar esta fonte.
+- Inspiração extra (só olhar, não importar): templates industriais/B2B como o Loadex (Webflow, máquinas e indústria) e o B2bizz (Framer, B2B).
+
+**O que coletar (até 3 candidatos por item; o dono escolhe)**
+1. Hero sóbrio, com foto de produto e CTA de orçamento (sem shader, WebGL, 3D ou fundo animado pesado).
+2. Navegação com menu de categorias (mega-menu) e botão "Pedir orçamento" fixo.
+3. Card e grade de produtos, com filtro por categoria e cor.
+4. Galeria da página de produto (zoom leve, miniaturas).
+5. Ficha técnica (tabela responsiva de medidas).
+6. Faixa de números/diferenciais (entrega, garantia, atendimento).
+7. Seção "setores atendidos" (hospitais, hotéis, mercados, hortifrutis, indústrias).
+8. Depoimentos e logos de clientes (só com autorização e dados reais; nada de placeholder).
+9. FAQ, faixa de CTA, formulário de orçamento, botão flutuante de WhatsApp e rodapé completo.
+
+**Critérios para aprovar um candidato**
+- Leve (sem bibliotecas pesadas), acessível (teclado, foco visível, contraste AA) e responsivo.
+- Combina com a paleta do logo e passa credibilidade B2B (nada de visual de "startup de IA").
+- Licença permite uso comercial.
+- Não usa dados ou textos de exemplo que possam ir parar no ar por engano.
+- Não deixa o site parecido com o da PJ.
+
+**Como coletar (feito pelo Claude Code, decidido pelo dono)**
+0. Comece pelas referências que o dono mandar (seção 9.1.1). O que ele enviar tem prioridade sobre as suas buscas.
+1. Para cada item acima, pesquisar e salvar em `design/referencias/<item>/` um arquivo `candidatos.md` com: nome, link, por que serve, adaptação necessária e licença.
+2. Tirar um screenshot de cada candidato (desktop e celular) com `playwright-cli`.
+3. Gerar uma página `design/referencias/index.html` com todos os screenshots lado a lado para o dono escolher.
+4. Só depois da escolha, adaptar o componente ao projeto. Nunca copiar um template inteiro, e não adicionar dependência sem aprovação.
 
 ## 10. Como trabalhar
 1. Antes de codar, apresente um plano curto e espere aprovação.
-2. Faça por fases, nesta ordem: (a) extração de dados e imagens, (b) estrutura e componentes, (c) páginas, (d) SEO, (e) segurança, (f) testes, (g) publicação.
+2. Faça por fases, nesta ordem: (a) extração de dados e imagens, (b) proposta visual (seção 9.2) e depois estrutura e componentes, (c) páginas, (d) SEO, (e) segurança, (f) testes, (g) publicação. Status informado pelo dono: a próxima fase é a (b); confirme no `PENDENCIAS.md` que a (a) foi concluída.
 3. Rode `npm run build` e corrija todos os erros e avisos.
 4. Checagens finais: Lighthouse, validação de HTML, checagem de links quebrados, teste dos cabeçalhos de segurança, teste do formulário, teste em celular.
 5. Entregue um resumo do que foi feito e uma lista do que depende do dono.
 
 ## 11. Pendências com o dono
-- [ ] CNPJ da PLAS (aparece no rodapé; não consta no site antigo)
-- [ ] Número de WhatsApp da PLAS
-- [ ] Endereço completo (o site antigo só diz Santo André/SP)
-- [ ] Confirmar as medidas marcadas como "confirmar"
+Estas respostas mudam o que o Claude Code vai construir. O dono responde quando tiver:
+- [ ] **WhatsApp da PLAS** (com DDD), para o botão de orçamento
+- [ ] **Plano da Hostinger**: roda PHP? Isso decide o formulário de orçamento (envio por PHP na própria hospedagem ou serviço externo). Conferir no painel da Hostinger (hPanel) o plano contratado e as configurações de PHP. Confirmar também se o `.htaccess` funciona.
+- [ ] **CNPJ e endereço completo**, para o rodapé, o Google Meu Negócio e os dados estruturados
+- [ ] **Logo em alta resolução**, de preferência em SVG (se só houver PNG, informar o tamanho)
+- [ ] URL do **Profitize** (templates), se quiser que seja usado como fonte
+- [ ] Confirmar as medidas marcadas como "confirmar" (Cestos de Pão e Bandeja 04)
 - [ ] Lista completa de produtos (o site antigo corta a lista)
-- [ ] Logo em alta resolução
-- [ ] Plano da Hostinger (suporta PHP e `.htaccess`?)
 - [ ] Autorização para usar Google Analytics (se desejado)
+- [ ] Colocar o arquivo `e597fed1-skills-main_2.zip` na pasta do projeto

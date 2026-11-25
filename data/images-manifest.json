@@ -1713,5 +1713,15 @@
   "url": "https://plasdistribuidora.com.br/wp-content/uploads/2019/05/Tampa-caixa-180L.jpg",
   "fallback": "https://plasdistribuidora.com.br/wp-content/uploads/2019/05/Tampa-caixa-180L-scaled.jpg",
   "file": "caixa-fechada-180-litros-2.jpg"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/be4d9242-41eb-4daa-84b7-1187fa646fa2.webp",
+  "fallback": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/be4d9242-41eb-4daa-84b7-1187fa646fa2.webp",
+  "file": "gaveteiro-plastico-bin-n9-50-litros.webp"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/3064720c-72c0-45f8-b73d-51396b9c37b6.png",
+  "fallback": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/3064720c-72c0-45f8-b73d-51396b9c37b6.png",
+  "file": "pallet-de-contencao-ibc-1000-litros-4-tambores.png"
  }
 ]

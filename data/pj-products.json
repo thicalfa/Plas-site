@@ -769,8 +769,8 @@
   "images": [
    "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/be4d9242-41eb-4daa-84b7-1187fa646fa2.webp"
   ],
-  "match": null,
-  "how": null
+  "match": "gaveteiro-plastico-bin-n9-50-litros",
+  "how": "nome"
  },
  {
   "pjSlug": "grade-de-piso-em-polietileno",
@@ -1182,8 +1182,8 @@
   "images": [
    "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/3064720c-72c0-45f8-b73d-51396b9c37b6.png"
   ],
-  "match": null,
-  "how": null
+  "match": "pallet-de-contencao-ibc-1000-litros-4-tambores",
+  "how": "nome"
  },
  {
   "pjSlug": "pallet-de-plastico-vazado",

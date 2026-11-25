@@ -66,7 +66,7 @@
    {
     "slug": "pallets-de-contencao",
     "name": "Pallets de contenção",
-    "count": 5
+    "count": 6
    },
    {
     "slug": "pallets-rotomoldados",
@@ -74,7 +74,7 @@
     "count": 2
    }
   ],
-  "count": 18
+  "count": 19
  },
  {
   "slug": "containers-e-carros",
@@ -106,10 +106,10 @@
    {
     "slug": "gaveteiros",
     "name": "Gaveteiros",
-    "count": 6
+    "count": 7
    }
   ],
-  "count": 11
+  "count": 12
  },
  {
   "slug": "moveis-plasticos",
