@@ -10,6 +10,9 @@ Registro de decisões do dono e de conflitos entre skills (briefing, seção 9.1
 | 25/11/2026 | Os 2 produtos que só existem na PJ (Gaveteiro Bin Nº 9 e Pallet de Contenção IBC) **entram no site**, com os dados da página da PJ. |
 | 25/11/2026 | Produtos sem peso ficam **sem peso**: a linha não aparece na ficha técnica. |
 | 25/11/2026 | O uso de **todas as fotos** está liberado, inclusive as que têm nome de fabricante no arquivo. |
+| 25/11/2026 | O dono **não tem referências externas** e aprovou a recomendação de estilo (`design/recomendacao.md`): "pode seguir com as suas ideias, qualquer coisa alteramos depois". |
+| 25/11/2026 | Cor de destaque: **azul** (#1F5FA8). |
+| 25/11/2026 | Skills da Emil instaladas a partir do zip: só `emil-design-eng`, `review-animations`, `animation-performance`, `break-ui` e `prototype` (as de Swift, Expo e mobile ficaram de fora, como pede o briefing). |
 
 ## Decisões técnicas da fase (a)
 
@@ -38,8 +41,8 @@ Ordem de precedência do briefing: `frontend-design` > `design-taste-frontend` >
 
 | Etapa | Skills de design |
 |---|---|
-| (b) Recomendação e proposta visual | `frontend-design` + `design-taste-frontend` |
+| (b) Recomendação e proposta visual | `frontend-design` + `design-taste-frontend` (protótipos com o `prototype` da Emil, que é ferramenta de comparação, não direção de design) |
 | (b) Estrutura e componentes | `frontend-design` + `web-design-guidelines` |
 | (c) Páginas | `frontend-design` + `web-design-guidelines`; `impeccable` só na revisão final |
-| Movimento (quando houver) | skills da Emil (aguardando o zip) |
+| Movimento (quando houver) | `emil-design-eng` + `review-animations` |
 | Testes | `playwright-cli` e `break-ui` (não são de design) |

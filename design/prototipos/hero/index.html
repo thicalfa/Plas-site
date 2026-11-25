@@ -1,0 +1,398 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Protótipo do hero · PLAS Distribuidora</title>
+<meta name="robots" content="noindex">
+<style>
+/* ---------- Fontes (hospedadas no próprio site, font-display: swap) ---------- */
+@font-face { font-family: "Barlow Semi Condensed"; font-weight: 600; font-style: normal; font-display: swap;
+  src: url(assets/fonts/barlow-semi-condensed-latin-600-normal.woff2) format("woff2"); }
+@font-face { font-family: "Barlow Semi Condensed"; font-weight: 700; font-style: normal; font-display: swap;
+  src: url(assets/fonts/barlow-semi-condensed-latin-700-normal.woff2) format("woff2"); }
+@font-face { font-family: "Source Sans 3"; font-weight: 200 900; font-style: normal; font-display: swap;
+  src: url(assets/fonts/source-sans-3-latin-wght-normal.woff2) format("woff2"); }
+
+/* ---------- Tokens ---------- */
+:root {
+  --grafite: #484343;      /* cor do logo */
+  --tinta: #2b2727;        /* títulos */
+  --texto: #3d3838;
+  --texto-2: #625c5c;      /* AA sobre branco e sobre concreto */
+  --concreto: #edebea;
+  --concreto-2: #f6f5f4;
+  --linha: #d9d5d3;
+  --papel: #ffffff;
+  --azul: #1f5fa8;         /* destaque escolhido pelo dono */
+  --azul-escuro: #174a85;
+  --azul-claro: #e8f0f9;
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --f-titulo: "Barlow Semi Condensed", "Arial Narrow", system-ui, sans-serif;
+  --f-texto: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* escala 1,25 */
+  --t-0: 1rem; --t-1: 1.25rem; --t-2: 1.5625rem; --t-3: 1.953rem; --t-4: 2.441rem; --t-5: 3.052rem; --t-6: 3.815rem;
+  --wrap: 1200px;
+  --gutter: clamp(16px, 4vw, 40px);
+  --r: 6px;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--papel); color: var(--texto); font-family: var(--f-texto); font-size: 1.0625rem; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+img { display: block; max-width: 100%; height: auto; }
+a { color: inherit; }
+h1, h2, h3 { font-family: var(--f-titulo); color: var(--tinta); margin: 0; font-weight: 700; letter-spacing: -0.005em; }
+p { margin: 0; }
+.wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gutter); }
+:focus-visible { outline: 3px solid var(--azul); outline-offset: 3px; border-radius: 2px; }
+.skip { position: absolute; left: 12px; top: -60px; background: var(--tinta); color: #fff; padding: 10px 14px; border-radius: var(--r); z-index: 50; text-decoration: none; }
+.skip:focus { top: 12px; }
+
+/* ---------- Botões ---------- */
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 48px; padding: 0 22px;
+  border-radius: var(--r); font: 600 1.0625rem/1 var(--f-texto); text-decoration: none; border: 2px solid transparent; cursor: pointer;
+  transition: background-color 150ms ease, border-color 150ms ease, color 150ms ease, transform 140ms var(--ease-out); }
+.btn:active { transform: scale(0.97); }
+.btn-azul { background: var(--azul); color: #fff; }
+.btn-linha { border-color: var(--grafite); color: var(--tinta); background: transparent; }
+@media (hover: hover) and (pointer: fine) {
+  .btn-azul:hover { background: var(--azul-escuro); }
+  .btn-linha:hover { background: var(--tinta); color: #fff; border-color: var(--tinta); }
+}
+.btn svg { width: 20px; height: 20px; flex: none; }
+
+/* ---------- Cabeçalho (igual nas 3 variações) ---------- */
+.topo { border-bottom: 1px solid var(--linha); background: var(--papel); position: sticky; top: 0; z-index: 20; }
+.topo .wrap { display: flex; align-items: center; gap: 28px; height: 76px; }
+.marca { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--tinta); }
+.marca img { width: 52px; height: 52px; }
+.marca span { font: 700 1.375rem/1 var(--f-titulo); letter-spacing: 0.01em; }
+.marca small { display: block; font: 600 0.8125rem/1.2 var(--f-texto); color: var(--texto-2); letter-spacing: 0; }
+.menu { display: flex; gap: 4px; margin-left: 8px; }
+.menu a { padding: 10px 12px; text-decoration: none; font-weight: 600; color: var(--texto); border-radius: var(--r); }
+@media (hover: hover) and (pointer: fine) { .menu a:hover { background: var(--concreto); } }
+.topo-acoes { margin-left: auto; display: flex; align-items: center; gap: 18px; }
+.fone { font-weight: 600; text-decoration: none; color: var(--tinta); white-space: nowrap; }
+.menu-btn { display: none; margin-left: auto; width: 48px; height: 48px; border: 1px solid var(--linha); background: var(--papel); border-radius: var(--r); }
+.menu-btn span { display: block; width: 20px; height: 2px; background: var(--tinta); margin: 4px auto; }
+@media (max-width: 980px) { .menu, .fone { display: none; } }
+@media (max-width: 640px) {
+  .topo .wrap { height: 64px; gap: 12px; }
+  .marca img { width: 42px; height: 42px; }
+  .marca small { display: none; }
+  .topo-acoes .btn { display: none; }
+  .menu-btn { display: block; }
+  .topo-acoes { margin-left: 0; }
+}
+
+/* ---------- Entrada única ao carregar ---------- */
+@keyframes sobe { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+[data-entra] > * { animation: sobe 520ms var(--ease-out) both; }
+[data-entra] > *:nth-child(2) { animation-delay: 60ms; }
+[data-entra] > *:nth-child(3) { animation-delay: 120ms; }
+[data-entra] > *:nth-child(4) { animation-delay: 180ms; }
+
+/* =====================================================================
+   VARIAÇÃO 1: Catálogo (a primeira tela já é a prateleira de categorias)
+   ===================================================================== */
+.v1 { padding: clamp(32px, 6vw, 72px) 0 clamp(40px, 6vw, 80px); background: var(--concreto-2); }
+.v1 .wrap { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: clamp(28px, 5vw, 64px); align-items: center; }
+.v1 h1 { font-size: clamp(2.25rem, 4.6vw, var(--t-6)); line-height: 1.02; max-width: 13ch; }
+.v1 .lead { margin-top: 20px; font-size: 1.1875rem; max-width: 42ch; color: var(--texto); }
+.v1 .acoes { margin-top: 28px; display: flex; flex-wrap: wrap; gap: 12px; }
+.v1 .contato { margin-top: 22px; color: var(--texto-2); font-size: 0.9375rem; }
+.v1 .contato a { color: var(--tinta); font-weight: 600; }
+.prateleira { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; list-style: none; margin: 0; padding: 0; }
+.prateleira a { display: flex; flex-direction: column; height: 100%; background: var(--papel); border: 1px solid var(--linha); border-radius: var(--r);
+  padding: 10px 10px 12px; text-decoration: none; transition: border-color 150ms ease, transform 160ms var(--ease-out); }
+.prateleira .foto { aspect-ratio: 1; display: grid; place-items: center; overflow: hidden; }
+.prateleira img { width: 100%; height: 100%; object-fit: contain; transition: transform 220ms var(--ease-out); }
+.prateleira b { margin-top: 8px; font: 700 1.0625rem/1.15 var(--f-titulo); color: var(--tinta); }
+.prateleira small { color: var(--texto-2); font-size: 0.875rem; }
+@media (hover: hover) and (pointer: fine) {
+  .prateleira a:hover { border-color: var(--azul); transform: translateY(-2px); }
+  .prateleira a:hover img { transform: scale(1.03); }
+}
+@media (max-width: 980px) { .v1 .wrap { grid-template-columns: 1fr; } .v1 h1 { max-width: 16ch; } }
+@media (max-width: 640px) { .prateleira { grid-template-columns: repeat(2, minmax(0, 1fr)); } .v1 .acoes .btn { flex: 1 1 100%; } }
+
+/* =====================================================================
+   VARIAÇÃO 2: Ficha técnica (um produto grande, com as cotas desenhadas)
+   ===================================================================== */
+.v2 { padding: clamp(28px, 5vw, 64px) 0 clamp(36px, 5vw, 72px); }
+.v2 .wrap { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: clamp(24px, 4vw, 56px); align-items: center; }
+.v2 h1 { font-size: clamp(2.25rem, 4.4vw, 3.5rem); line-height: 1.03; max-width: 14ch; }
+.v2 .lead { margin-top: 18px; font-size: 1.1875rem; max-width: 40ch; }
+.v2 .acoes { margin-top: 28px; display: flex; flex-wrap: wrap; gap: 12px; }
+.v2 .numeros { margin: 32px 0 0; padding: 20px 0 0; border-top: 1px solid var(--linha); display: grid; grid-template-columns: repeat(3, auto); justify-content: start; gap: 28px; }
+.v2 .numeros div { display: flex; flex-direction: column; }
+.v2 .numeros dt { order: 2; color: var(--texto-2); font-size: 0.9375rem; }
+.v2 .numeros dd { order: 1; margin: 0; font: 700 1.75rem/1.1 var(--f-titulo); color: var(--tinta); }
+.desenho { position: relative; }
+.desenho svg { width: 100%; height: auto; overflow: visible; }
+.desenho .cota { stroke: var(--azul); stroke-width: 1.5; fill: none; }
+.desenho .cota-t { font: 600 15px var(--f-texto); fill: var(--azul-escuro); }
+.desenho .cota-fundo { fill: var(--papel); }
+/* as cotas se desenham uma vez ao carregar */
+.desenho .traco { stroke-dasharray: 400; stroke-dashoffset: 400; animation: traca 700ms var(--ease-out) 260ms forwards; }
+.desenho .rotulo { opacity: 0; animation: aparece 300ms ease-out 760ms forwards; }
+@keyframes traca { to { stroke-dashoffset: 0; } }
+@keyframes aparece { to { opacity: 1; } }
+.ficha { position: relative; margin: 8px 0 0 auto; max-width: 340px; background: var(--papel); border: 1px solid var(--linha); border-left: 4px solid var(--azul); border-radius: var(--r);
+  padding: 14px 16px; font-size: 0.9375rem; min-width: 230px; box-shadow: 0 10px 30px rgba(43, 39, 39, 0.08); }
+.ficha a { font: 700 1.125rem/1.2 var(--f-titulo); color: var(--tinta); text-decoration: none; }
+.ficha a:hover { color: var(--azul); }
+.ficha dl { margin: 8px 0 0; display: grid; grid-template-columns: auto auto; gap: 2px 14px; }
+.ficha dt { color: var(--texto-2); }
+.ficha dd { margin: 0; font-weight: 600; color: var(--tinta); text-align: right; font-variant-numeric: tabular-nums; }
+@media (max-width: 980px) { .v2 .wrap { grid-template-columns: 1fr; } .desenho { max-width: 640px; } }
+@media (max-width: 640px) {
+  .ficha { max-width: none; }
+  .desenho .rotulo { transform: scale(1.7); transform-box: fill-box; transform-origin: center; }
+  .desenho .cota { stroke-width: 2.5; }
+  .v2 .numeros { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+  .v2 .numeros dd { font-size: 1.375rem; }
+  .v2 .acoes .btn { flex: 1 1 100%; }
+}
+
+/* =====================================================================
+   VARIAÇÃO 3: Setores (a pessoa se reconhece pelo setor dela)
+   ===================================================================== */
+.v3 { background: var(--tinta); color: #e9e6e5; }
+.v3 .wrap { display: grid; grid-template-columns: minmax(0, 6fr) minmax(0, 5fr); gap: clamp(28px, 5vw, 64px); padding-top: clamp(36px, 6vw, 72px); padding-bottom: clamp(36px, 6vw, 72px); align-items: center; }
+.v3 h1 { color: #fff; font-size: clamp(2.125rem, 4.2vw, 3.375rem); line-height: 1.04; max-width: 17ch; }
+.v3 .lead { margin-top: 16px; font-size: 1.1875rem; max-width: 46ch; color: #d6d2d1; }
+.setores { list-style: none; margin: 28px 0 0; padding: 0; border-top: 1px solid rgba(255,255,255,0.16); }
+.setores li { border-bottom: 1px solid rgba(255,255,255,0.16); }
+.setores a { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 4px 16px; padding: 14px 4px; text-decoration: none; transition: background-color 150ms ease, padding 200ms var(--ease-out); }
+.setores b { font: 700 1.375rem/1.1 var(--f-titulo); color: #fff; }
+.setores small { grid-column: 1; color: #bdb8b7; font-size: 0.9375rem; }
+.setores svg { grid-row: 1 / span 2; grid-column: 2; width: 22px; height: 22px; stroke: #fff; opacity: 0.6; transition: transform 200ms var(--ease-out), opacity 150ms ease; }
+@media (hover: hover) and (pointer: fine) {
+  .setores a:hover { background: rgba(255,255,255,0.05); padding-left: 12px; }
+  .setores a:hover svg { transform: translateX(3px); opacity: 1; }
+}
+.v3 .acoes { margin-top: 28px; display: flex; flex-wrap: wrap; gap: 12px; }
+.v3 .btn-linha { border-color: rgba(255,255,255,0.5); color: #fff; }
+@media (hover: hover) and (pointer: fine) { .v3 .btn-linha:hover { background: #fff; color: var(--tinta); border-color: #fff; } }
+.v3 :focus-visible { outline-color: #8fb6e6; }
+.mosaico { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; gap: 10px; }
+.mosaico figure { margin: 0; background: var(--papel); border-radius: var(--r); display: grid; place-items: center; padding: 12px; }
+.mosaico figure:first-child { grid-row: span 2; }
+.mosaico img { width: 100%; height: 100%; object-fit: contain; }
+@media (max-width: 980px) { .v3 .wrap { grid-template-columns: 1fr; } .mosaico { max-width: 560px; } }
+@media (max-width: 640px) { .v3 .acoes .btn { flex: 1 1 100%; } .mosaico { grid-template-columns: 1fr 1fr; } }
+
+/* ---------- Movimento reduzido: tudo parado e visível ---------- */
+@media (prefers-reduced-motion: reduce) {
+  [data-entra] > *, .desenho .traco, .desenho .rotulo { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; transform: none !important; }
+  .btn, .prateleira a, .prateleira img, .setores a, .setores svg { transition: none !important; }
+}
+
+/* ---------- Picker (PICKER.md, verbatim) ---------- */
+.proto-picker { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); z-index: 2147483647; display: flex; align-items: center; gap: 2px; padding: 4px; border-radius: 999px; background: rgba(10, 10, 10, 0.82); -webkit-backdrop-filter: blur(12px) saturate(1.4); backdrop-filter: blur(12px) saturate(1.4); box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.08) inset, 0 8px 24px rgba(0, 0, 0, 0.24), 0 2px 6px rgba(0, 0, 0, 0.12); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 13px; line-height: 1; -webkit-font-smoothing: antialiased; user-select: none; -webkit-user-select: none; }
+.proto-picker-highlight { position: absolute; top: 4px; left: 0; height: 28px; border-radius: 999px; background: rgba(255, 255, 255, 0.12); }
+.proto-picker[data-ready] .proto-picker-highlight { transition: transform 250ms cubic-bezier(0.23, 1, 0.32, 1), width 250ms cubic-bezier(0.23, 1, 0.32, 1); }
+@media (prefers-reduced-motion: reduce) { .proto-picker[data-ready] .proto-picker-highlight { transition: none; } }
+.proto-picker-item { position: relative; display: flex; align-items: center; height: 28px; padding: 0 12px; border: 0; border-radius: 999px; background: transparent; color: rgba(255, 255, 255, 0.55); font: inherit; cursor: pointer; transition: color 150ms ease-out, transform 160ms cubic-bezier(0.23, 1, 0.32, 1); }
+@media (hover: hover) and (pointer: fine) { .proto-picker-item:hover { color: rgba(255, 255, 255, 0.85); } }
+.proto-picker-item:active { transform: scale(0.97); }
+.proto-picker-item:focus-visible { outline: 2px solid rgba(255, 255, 255, 0.4); outline-offset: 2px; }
+.proto-picker-item[data-active] { color: #fff; }
+.proto-picker-divider { width: 1px; height: 16px; margin: 0 4px; background: rgba(255, 255, 255, 0.12); }
+.proto-picker-replay { padding: 0 10px; font-size: 14px; }
+.proto-picker[data-position="top"] { bottom: auto; top: 24px; }
+</style>
+</head>
+<body>
+<a class="skip" href="#conteudo">Pular para o conteúdo</a>
+
+<header class="topo">
+  <div class="wrap">
+    <a class="marca" href="#" aria-label="PLAS Distribuidora, página inicial">
+      <img src="assets/img/logo-plas.webp" width="52" height="52" alt="">
+      <span>PLAS<small>Distribuidora · Santo André/SP</small></span>
+    </a>
+    <nav class="menu" aria-label="Principal">
+      <a href="#">Produtos</a><a href="#">Setores</a><a href="#">Sobre</a><a href="#">Contato</a>
+    </nav>
+    <div class="topo-acoes">
+      <a class="fone" href="tel:+551144211714">(11) 4421-1714</a>
+      <a class="btn btn-azul" href="#">Pedir orçamento</a>
+    </div>
+    <button class="menu-btn" type="button" aria-label="Abrir menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<main id="conteudo"><div id="stage"></div></main>
+
+<!-- ======================= VARIAÇÃO 1: Catálogo ======================= -->
+<template id="t1">
+  <section class="v1" aria-labelledby="h1-v1">
+    <div class="wrap">
+      <div data-entra>
+        <h1 id="h1-v1">Caixas, pallets e lixeiras plásticas para empresas</h1>
+        <p class="lead">Distribuidora em Santo André (SP) com 161 produtos para hospitais, hotéis, mercados e indústrias. Cada item tem medidas, capacidade e cores na ficha técnica.</p>
+        <div class="acoes">
+          <a class="btn btn-azul" href="#">Pedir orçamento</a>
+          <a class="btn btn-linha" href="#">Ver todos os produtos</a>
+        </div>
+        <p class="contato">Prefere falar com alguém? Ligue <a href="tel:+551144211714">(11) 4421-1714</a></p>
+      </div>
+      <ul class="prateleira" aria-label="Categorias de produtos" data-entra>
+        <li><a href="#"><span class="foto"><img src="assets/img/caixa-r-klt-3215-480.webp" width="480" height="320" alt="Caixa plástica KLT azul"></span><b>Caixas plásticas</b><small>39 produtos</small></a></li>
+        <li><a href="#"><span class="foto"><img src="assets/img/cesto-de-lixo-100-litros-redondo-2-480.webp" width="480" height="320" alt="Cesto de lixo redondo amarelo de 100 litros"></span><b>Lixeiras</b><small>50 produtos</small></a></li>
+        <li><a href="#"><span class="foto"><img src="assets/img/caixa-pallet-glt-2-480.webp" width="480" height="407" alt="Caixa pallet GLT dobrável cinza"></span><b>Pallets</b><small>19 produtos</small></a></li>
+        <li><a href="#"><span class="foto"><img src="assets/img/container-plastico-660-litros-com-pedal-480.webp" width="480" height="403" alt="Container plástico azul de 660 litros com pedal e rodas"></span><b>Containers e carros</b><small>18 produtos</small></a></li>
+        <li><a href="#"><span class="foto"><img src="assets/img/gaveteiro-05-480.webp" width="480" height="480" alt="Gaveteiro plástico empilhável"></span><b>Cestos e gaveteiros</b><small>12 produtos</small></a></li>
+        <li><a href="#"><span class="foto"><img src="assets/img/poltrona-com-braco-480.webp" width="480" height="642" alt="Poltrona plástica branca com braço"></span><b>Móveis plásticos</b><small>12 produtos</small></a></li>
+        <li><a href="#"><span class="foto"><img src="assets/img/estrado-41x82-cm-2-480.webp" width="480" height="320" alt="Estrado plástico preto de 41 x 82 cm"></span><b>Estrados</b><small>6 produtos</small></a></li>
+        <li><a href="#"><span class="foto"><img src="assets/img/bandeja-18-480.webp" width="480" height="360" alt="Bandeja plástica branca 18"></span><b>Bandejas</b><small>5 produtos</small></a></li>
+      </ul>
+    </div>
+  </section>
+</template>
+
+<!-- ======================= VARIAÇÃO 2: Ficha técnica ======================= -->
+<template id="t2">
+  <section class="v2" aria-labelledby="h1-v2">
+    <div class="wrap">
+      <div data-entra>
+        <h1 id="h1-v2">Caixas e pallets plásticos com a medida que você precisa</h1>
+        <p class="lead">Confira medidas internas e externas, capacidade e carga de cada produto antes de pedir o orçamento. Distribuidora em Santo André (SP).</p>
+        <div class="acoes">
+          <a class="btn btn-azul" href="#">Pedir orçamento</a>
+          <a class="btn btn-linha" href="#">Ver os 161 produtos</a>
+        </div>
+        <dl class="numeros">
+          <div><dt>produtos</dt><dd>161</dd></div>
+          <div><dt>categorias</dt><dd>8</dd></div>
+          <div><dt>cores de lixeira</dt><dd>até 9</dd></div>
+        </dl>
+      </div>
+      <div class="desenho" data-entra>
+        <svg viewBox="0 0 700 600" role="img" aria-label="Caixa RL-KLT 4322 azul com as medidas externas: 39,5 cm de comprimento, 29,5 cm de largura e 21,5 cm de altura">
+          <image href="assets/img/klt-4322-trim-1200.webp" x="40" y="40" width="600" height="485.5" preserveAspectRatio="xMidYMid meet"/>
+          <!-- comprimento: aresta inferior da face longa -->
+          <g transform="translate(66.4 409.9) rotate(21.7)">
+            <path class="cota traco" d="M0 0 H353.7 M0 -8 V8 M353.7 -8 V8"/>
+            <g class="rotulo"><rect class="cota-fundo" x="140" y="-13" width="74" height="26" rx="3"/><text class="cota-t" x="177" y="5" text-anchor="middle">39,5 cm</text></g>
+          </g>
+          <!-- largura: aresta inferior da face curta -->
+          <g transform="translate(423.6 537.3) rotate(-35.9)">
+            <path class="cota traco" d="M0 0 H271.4 M0 -8 V8 M271.4 -8 V8"/>
+            <g class="rotulo"><rect class="cota-fundo" x="99" y="-13" width="74" height="26" rx="3"/><text class="cota-t" x="136" y="5" text-anchor="middle">29,5 cm</text></g>
+          </g>
+          <!-- altura: aresta vertical da direita -->
+          <g transform="translate(662 354) rotate(-90)">
+            <path class="cota traco" d="M0 0 H220 M0 -8 V8 M220 -8 V8"/>
+            <g class="rotulo"><rect class="cota-fundo" x="73" y="-13" width="74" height="26" rx="3"/><text class="cota-t" x="110" y="5" text-anchor="middle">21,5 cm</text></g>
+          </g>
+        </svg>
+        <div class="ficha">
+          <a href="#">Caixa RL-KLT 4322</a>
+          <dl>
+            <dt>Medidas externas</dt><dd>21,5 x 29,5 x 39,5 cm</dd>
+            <dt>Capacidade</dt><dd>11,7 litros</dd>
+            <dt>Carga por caixa</dt><dd>15 kg</dd>
+            <dt>Peso</dt><dd>1,2 kg</dd>
+            <dt>Cores</dt><dd>azul, preto, cinza</dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </section>
+</template>
+
+<!-- ======================= VARIAÇÃO 3: Setores ======================= -->
+<template id="t3">
+  <section class="v3" aria-labelledby="h1-v3">
+    <div class="wrap">
+      <div data-entra>
+        <h1 id="h1-v3">Produtos plásticos para hospitais, hotéis, mercados e indústrias</h1>
+        <p class="lead">Escolha o seu setor e veja as caixas, lixeiras e containers que mais saem para empresas como a sua.</p>
+        <ul class="setores" aria-label="Setores atendidos">
+          <li><a href="#"><b>Hospitais e clínicas</b><small>Lixeiras com pedal, containers e carros de limpeza</small><svg viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></li>
+          <li><a href="#"><b>Hotéis e restaurantes</b><small>Móveis plásticos, lixeiras e caixas para estoque</small><svg viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></li>
+          <li><a href="#"><b>Supermercados e hortifrutis</b><small>Caixas vazadas, cestos de compra e bandejas</small><svg viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></li>
+          <li><a href="#"><b>Indústria e logística</b><small>Caixas KLT, pallets, estrados e caixas pallet</small><svg viewBox="0 0 24 24" fill="none" stroke-width="2" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></li>
+        </ul>
+        <div class="acoes">
+          <a class="btn btn-azul" href="#">Pedir orçamento</a>
+          <a class="btn btn-linha" href="#">Ver todos os produtos</a>
+        </div>
+      </div>
+      <div class="mosaico" data-entra>
+        <figure><img src="assets/img/container-plastico-1000-litros-768.webp" width="768" height="768" alt="Container plástico verde de 1000 litros com tampa e rodas"></figure>
+        <figure><img src="assets/img/caixa-fechada-61-litros-2-480.webp" width="480" height="320" alt="Caixa plástica fechada preta de 61 litros"></figure>
+        <figure><img src="assets/img/lixeira-quadrada-60-litros-com-pedal-480.webp" width="480" height="480" alt="Lixeira quadrada de 60 litros com pedal"></figure>
+      </div>
+    </div>
+  </section>
+</template>
+
+<nav class="proto-picker" aria-label="Prototype variants">
+  <span class="proto-picker-highlight" aria-hidden="true"></span>
+  <button class="proto-picker-item" data-active aria-current="true">Catálogo</button>
+  <button class="proto-picker-item">Ficha técnica</button>
+  <button class="proto-picker-item">Setores</button>
+  <span class="proto-picker-divider" aria-hidden="true"></span>
+  <button class="proto-picker-item proto-picker-replay" aria-label="Replay animation (R)">↻</button>
+</nav>
+
+<script>
+const variants = ["t1", "t2", "t3"].map((id) => () => document.getElementById(id).innerHTML);
+const stage = document.getElementById('stage');
+const picker = document.querySelector('.proto-picker');
+const highlight = picker.querySelector('.proto-picker-highlight');
+const items = [...picker.querySelectorAll('.proto-picker-item:not(.proto-picker-replay)')];
+const replay = picker.querySelector('.proto-picker-replay');
+let current = 0;
+
+function moveHighlight() {
+  const el = items[current];
+  highlight.style.width = el.offsetWidth + 'px';
+  highlight.style.transform = `translateX(${el.offsetLeft}px)`;
+}
+
+function mount(i) {
+  stage.innerHTML = '';
+  requestAnimationFrame(() => { stage.innerHTML = variants[i](); });
+}
+
+function setActive(i) {
+  if (i < 0 || i >= variants.length) return;
+  current = i;
+  items.forEach((el, j) => {
+    el.toggleAttribute('data-active', j === i);
+    if (j === i) el.setAttribute('aria-current', 'true');
+    else el.removeAttribute('aria-current');
+  });
+  moveHighlight();
+  const url = new URL(location);
+  url.searchParams.set('v', i + 1);
+  history.replaceState(null, '', url);
+  mount(i);
+}
+
+items.forEach((el, i) => el.addEventListener('click', () => setActive(i)));
+replay?.addEventListener('click', () => mount(current));
+window.addEventListener('resize', moveHighlight);
+
+document.addEventListener('keydown', (e) => {
+  if (/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName) || e.target.isContentEditable) return;
+  if (e.metaKey || e.ctrlKey || e.altKey) return;
+  const num = parseInt(e.key, 10);
+  if (num >= 1 && num <= variants.length) setActive(num - 1);
+  else if (e.key === 'ArrowRight') setActive((current + 1) % variants.length);
+  else if (e.key === 'ArrowLeft') setActive((current - 1 + variants.length) % variants.length);
+  else if (e.key === 'r' || e.key === 'R') mount(current);
+});
+
+const requested = parseInt(new URLSearchParams(location.search).get('v'), 10);
+setActive(requested >= 1 && requested <= variants.length ? requested - 1 : 0);
+requestAnimationFrame(() => requestAnimationFrame(() => picker.setAttribute('data-ready', '')));
+</script>
+</body>
+</html>

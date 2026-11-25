@@ -1,6 +1,6 @@
 # Pendências
 
-**Status: fase (a), extração de dados e imagens, concluída em 25/11/2026.** Próxima: fase (b), proposta visual.
+**Status: fase (a), extração de dados e imagens, concluída em 25/11/2026.** Fase (b): proposta visual em `design/proposta-visual.md`, aguardando aprovação do dono.
 
 Gerado por `scripts/pendencias.py` a partir dos dados do site antigo. **Nada aqui foi corrigido por conta própria.**
 
@@ -308,9 +308,10 @@ Observação: o briefing diz que a PJ não tem medidas, mas várias páginas da 
 - [ ] **CNPJ e endereço completo**, para o rodapé, o Google Meu Negócio e os dados estruturados
 - [ ] **Logo em alta resolução**, de preferência SVG. O atual é PNG 500 x 500 px, todo em cinza-grafite (#484343), sem cor
 - [ ] URL do **Profitize** (templates), se quiser que seja usado como fonte
-- [ ] Arquivo `e597fed1-skills-main_2.zip` (skills da Emil) na pasta do projeto
+- [x] Skills da Emil: instaladas
 - [ ] Autorização para usar Google Analytics (se desejado)
-- [ ] **Referências visuais** do dono (seção 9.1.1 do briefing)
+- [x] Referências visuais: o dono não tem; aprovou a recomendação, com azul de destaque
+- [ ] **Escolher a variação do hero** (Catálogo, Ficha técnica ou Setores) e aprovar a proposta visual
 - [x] Medidas a confirmar: publicar como estão (decisão do dono)
 - [x] Lista completa de produtos: a API trouxe os 159 do sitemap antigo + 2 só da PJ = 161
 - [x] Uso das fotos: liberado

@@ -28,7 +28,7 @@ L = []
 w = L.append
 w("# Pendências")
 w("")
-w("**Status: fase (a), extração de dados e imagens, concluída em 25/11/2026.** Próxima: fase (b), proposta visual.")
+w("**Status: fase (a), extração de dados e imagens, concluída em 25/11/2026.** Fase (b): proposta visual em `design/proposta-visual.md`, aguardando aprovação do dono.")
 w("")
 w("Gerado por `scripts/pendencias.py` a partir dos dados do site antigo. **Nada aqui foi corrigido por conta própria.**")
 w("")
@@ -148,9 +148,10 @@ for done, item in [
     (False, "**CNPJ e endereço completo**, para o rodapé, o Google Meu Negócio e os dados estruturados"),
     (False, "**Logo em alta resolução**, de preferência SVG. O atual é PNG 500 x 500 px, todo em cinza-grafite (#484343), sem cor"),
     (False, "URL do **Profitize** (templates), se quiser que seja usado como fonte"),
-    (False, "Arquivo `e597fed1-skills-main_2.zip` (skills da Emil) na pasta do projeto"),
+    (True, "Skills da Emil: instaladas"),
     (False, "Autorização para usar Google Analytics (se desejado)"),
-    (False, "**Referências visuais** do dono (seção 9.1.1 do briefing)"),
+    (True, "Referências visuais: o dono não tem; aprovou a recomendação, com azul de destaque"),
+    (False, "**Escolher a variação do hero** (Catálogo, Ficha técnica ou Setores) e aprovar a proposta visual"),
     (True, "Medidas a confirmar: publicar como estão (decisão do dono)"),
     (True, "Lista completa de produtos: a API trouxe os 159 do sitemap antigo + 2 só da PJ = 161"),
     (True, "Uso das fotos: liberado"),
