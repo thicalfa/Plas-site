@@ -304,7 +304,9 @@ Observação: o briefing diz que a PJ não tem medidas, mas várias páginas da 
 ## 10. Pendências gerais com o dono (do briefing)
 
 - [x] WhatsApp: (11) 95991-1262, tirado do site da PJ (autorizado pelo dono)
-- [ ] **Plano da Hostinger**: roda PHP? `.htaccess` funciona? (decide o formulário de orçamento)
+- [x] Plano da Hostinger: Business Web Hosting (roda PHP e `.htaccess`; formulário de orçamento em PHP na própria hospedagem)
+- [ ] Na publicação: adicionar `plasdistribuidora.com.br` ao plano Business (hoje o painel só mostra o site da PJ) e confirmar onde o WordPress antigo está hospedado
+- [ ] Na publicação: criar ou confirmar a caixa `vendas@plasdistribuidora.com.br` para o formulário enviar por SMTP
 - [x] Endereço: Rua Nápoli, 106, Vila Metalúrgica, Santo André/SP (site da PJ)
 - [ ] **CEP** do endereço (não aparece no site da PJ)
 - [ ] **CNPJ**: o dono envia depois

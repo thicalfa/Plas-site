@@ -12,6 +12,8 @@ Registro de decisões do dono e de conflitos entre skills (briefing, seção 9.1
 | 25/11/2026 | O uso de **todas as fotos** está liberado, inclusive as que têm nome de fabricante no arquivo. |
 | 25/11/2026 | O dono **não tem referências externas** e aprovou a recomendação de estilo (`design/recomendacao.md`): "pode seguir com as suas ideias, qualquer coisa alteramos depois". |
 | 25/11/2026 | Cor de destaque: **azul** (#1F5FA8). |
+| 25/11/2026 | Hospedagem: **Hostinger Business Web Hosting**. Site estático (Astro) + formulário em PHP na própria hospedagem, com envio por SMTP. Publicação pelo recurso Git do hPanel, sem senha de FTP com o Claude. |
+| 25/11/2026 | Contatos: WhatsApp (11) 95991-1262 e endereço Rua Nápoli, 106, Vila Metalúrgica, Santo André, tirados do site da PJ por pedido do dono. E-mail e redes continuam os da PLAS. CNPJ depois. |
 | 25/11/2026 | O dono gostou do visual "Ficha técnica" (produto grande com as medidas desenhadas) e pediu uma página inicial **mais criativa e interativa, com movimento**. Resposta: protótipo `design/prototipos/home/`. O movimento fica leve (SVG + ~10 KB de JavaScript, sem WebGL nem bibliotecas), para cumprir a regra "desempenho e acessibilidade vencem a estética". |
 | 25/11/2026 | "Desenho técnico" de cada produto gerado a partir da própria foto (detecção de arestas, `scripts/blueprint.py`). Não há gerador de fotos nesta sessão; nenhuma imagem de banco ou inventada foi usada. |
 | 25/11/2026 | Skills da Emil instaladas a partir do zip: só `emil-design-eng`, `review-animations`, `animation-performance`, `break-ui` e `prototype` (as de Swift, Expo e mobile ficaram de fora, como pede o briefing). |
