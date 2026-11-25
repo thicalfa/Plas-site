@@ -1,0 +1,956 @@
+[
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F335852c0-a429-4276-8d39-9a08e860e4c2.png",
+  "file": "pj/cesto-de-pao-40-litros.png",
+  "product": "cesto-de-pao-40-litros",
+  "pjSlug": "bandeja-organizadora-plastica-azul"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F60ba1cb0-2530-4d72-a49a-8da3d57d1b78.jpg",
+  "file": "pj/mesa-juvenil.jpg",
+  "product": "mesa-juvenil",
+  "pjSlug": "banqueta-plastica-quadrada"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/ee23c235-7d72-4a8c-878a-40b94d67d581.jpg",
+  "file": "pj/banqueta-plastica.jpg",
+  "product": "banqueta-plastica",
+  "pjSlug": "banqueta-plastica"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F5b4887cc-3a9b-4075-8683-683e563b3a42.jpg",
+  "file": "pj/cadeira-juvenil.jpg",
+  "product": "cadeira-juvenil",
+  "pjSlug": "cadeira-infantil-plastica-pink"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/640b5653-a4b7-49a7-8680-735c4c126b4f.jpg",
+  "file": "pj/cadeira-bistro.jpg",
+  "product": "cadeira-bistro",
+  "pjSlug": "cadeira-plastica-branca"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F7c26f201-2c3b-49fe-99f6-4cf157c5eb29.png",
+  "file": "pj/cadeira-bistro-2.png",
+  "product": "cadeira-bistro",
+  "pjSlug": "cadeira-plastica-branca"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/9be3ac58-abe1-42bf-b465-7f86eda03c22.jpg",
+  "file": "pj/caixa-alc-6437.jpg",
+  "product": "caixa-alc-6437",
+  "pjSlug": "caixa-alc-6437"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/63625612-cc08-477d-b12d-c395e1322898.jpg",
+  "file": "pj/caixa-fechada-130-litros-76.jpg",
+  "product": "caixa-fechada-130-litros-76",
+  "pjSlug": "caixa-fechada-130-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/0a5a316a-cdbf-4451-8a9d-14b80bb353b1.jpg",
+  "file": "pj/caixa-fechada-15-litros.jpg",
+  "product": "caixa-fechada-15-litros",
+  "pjSlug": "caixa-fechada-15-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/0a776b15-21ec-49c7-b3d7-ed0feb5f3382.jpg",
+  "file": "pj/caixa-fechada-180-litros.jpg",
+  "product": "caixa-fechada-180-litros",
+  "pjSlug": "caixa-fechada-180-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/219ef14c-ea39-469d-a494-488ddeedec95.jpg",
+  "file": "pj/caixa-fechada-26-litros.jpg",
+  "product": "caixa-fechada-26-litros",
+  "pjSlug": "caixa-fechada-26-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/7a102148-e0ef-45e1-ba36-f3f2fb2bbbdf.jpg",
+  "file": "pj/caixa-fechada-36-litros.jpg",
+  "product": "caixa-fechada-36-litros",
+  "pjSlug": "caixa-fechada-36-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/5b1e9a75-a4b0-445b-81ad-1ac009a75f1f.jpg",
+  "file": "pj/caixa-fechada-38-litros.jpg",
+  "product": "caixa-fechada-38-litros",
+  "pjSlug": "caixa-fechada-38-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/1a343f40-fcc9-4908-917d-bf4a3f597b2a.jpg",
+  "file": "pj/caixa-fechada-4-2-litros.jpg",
+  "product": "caixa-fechada-4-2-litros",
+  "pjSlug": "caixa-fechada-42-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/6ed031b3-7963-4c1e-89b7-e6df7d485811.webp",
+  "file": "pj/caixa-fechada-46-litros.webp",
+  "product": "caixa-fechada-46-litros",
+  "pjSlug": "caixa-fechada-46-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/97d2dbd3-6696-44b5-a78b-ca5ead7ab34b.jpg",
+  "file": "pj/caixa-fechada-61-litros.jpg",
+  "product": "caixa-fechada-61-litros",
+  "pjSlug": "caixa-fechada-61-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/af0b08dc-db0a-4e50-8057-f117ed4a17fc.jpg",
+  "file": "pj/caixa-fechada-7-litros.jpg",
+  "product": "caixa-fechada-7-litros",
+  "pjSlug": "caixa-fechada-7-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/83652022-062e-43ef-bae4-101b337ec54d.jpg",
+  "file": "pj/caixa-fechada-70-litros.jpg",
+  "product": "caixa-fechada-70-litros",
+  "pjSlug": "caixa-fechada-70-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/4c581a50-0792-46bb-8c5b-d8c4bc393e4b.jpg",
+  "file": "pj/caixa-frigorifica-42-litros.jpg",
+  "product": "caixa-frigorifica-42-litros",
+  "pjSlug": "caixa-frigorifica-42-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/76e39b38-eaeb-4c4f-b63a-fd267cc0cd21.jpg",
+  "file": "pj/caixa-galia-1322.jpg",
+  "product": "caixa-galia-1322",
+  "pjSlug": "caixa-galia-1322"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/68e68aa8-e2db-410a-9c9b-e5235149f762.jpg",
+  "file": "pj/caixa-hortifruti-vazada-46-litros.jpg",
+  "product": "caixa-hortifruti-vazada-46-litros",
+  "pjSlug": "caixa-hortifruti-vazada-46-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F7ee374c3-a8ec-4e34-bb7c-0dac1170d650.webp",
+  "file": "pj/gaveteiro-04.webp",
+  "product": "gaveteiro-04",
+  "pjSlug": "caixa-organizadora-plastica"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F22db9338-1b44-4be4-b912-cc0e2e558dfe.webp",
+  "file": "pj/gaveteiro-05.webp",
+  "product": "gaveteiro-05",
+  "pjSlug": "caixa-organizadora-plastica1"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fe121022c-09b9-4785-9623-960a288e3034.webp",
+  "file": "pj/gaveteiro-06.webp",
+  "product": "gaveteiro-06",
+  "pjSlug": "caixa-organizadora-plastica2"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F69fb9f7c-02b3-46b5-943d-a58b0fea64bf.webp",
+  "file": "pj/gaveteiro-07.webp",
+  "product": "gaveteiro-07",
+  "pjSlug": "caixa-organizadora-plastica3"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fa3521c62-4e63-4df9-861e-7216f97b2fff.webp",
+  "file": "pj/gaveteiro-08.webp",
+  "product": "gaveteiro-08",
+  "pjSlug": "caixa-organizadora-plastica4"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/2390de9d-6fe5-4099-a747-fe2db35f9007.jpg",
+  "file": "pj/caixa-plastica-370-litros.jpg",
+  "product": "caixa-plastica-370-litros",
+  "pjSlug": "caixa-plastica-370-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F57722036-4c4e-4396-9f92-8e31ffdb1bd7.jpg",
+  "file": "pj/carro-coletor-370-litros.jpg",
+  "product": "carro-coletor-370-litros",
+  "pjSlug": "caixa-plastica-com-rodas"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F02d415da-fb06-4319-817b-fa3a815f7991.png",
+  "file": "pj/cesto-de-pao-51-litros.png",
+  "product": "cesto-de-pao-51-litros",
+  "pjSlug": "caixa-plastica-vazada"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/746edd5c-7a1f-4d91-a635-a34881729f7a.jpg",
+  "file": "pj/caixa-r-klt-3215.jpg",
+  "product": "caixa-r-klt-3215",
+  "pjSlug": "caixa-r-klt-3215"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/8c3f85f1-f3ad-4b52-9611-98b3135aabe1.jpg",
+  "file": "pj/caixa-r-klt-4315.jpg",
+  "product": "caixa-r-klt-4315",
+  "pjSlug": "caixa-r-klt-4315"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/2d01a4c3-46e8-4749-bedb-b9a2fa618603.jpg",
+  "file": "pj/caixa-r-klt-4329.jpg",
+  "product": "caixa-r-klt-4329",
+  "pjSlug": "caixa-r-klt-4329"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/208ddaf0-9747-45c5-b9cb-d410ad4060da.jpg",
+  "file": "pj/caixa-r-klt-6428.jpg",
+  "product": "caixa-r-klt-6428",
+  "pjSlug": "caixa-r-klt-6428"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/8a133b23-3c34-404d-96e6-3386359ed858.jpg",
+  "file": "pj/caixa-rl-klt-3147.jpg",
+  "product": "caixa-rl-klt-3147",
+  "pjSlug": "caixa-rl-klt-3147"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/a8643927-5977-4938-bd20-1cab41b75dce.jpg",
+  "file": "pj/caixa-rl-klt-4322.jpg",
+  "product": "caixa-rl-klt-4322",
+  "pjSlug": "caixa-rl-klt-4322"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/b7447a75-8900-4308-bb95-99ce75bd5cca.jpg",
+  "file": "pj/caixa-rl-klt-6421.jpg",
+  "product": "caixa-rl-klt-6421",
+  "pjSlug": "caixa-rl-klt-6421"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/9daf51f3-6782-4b83-bba2-5b39277e697f.jpg",
+  "file": "pj/caixa-rl-klt-6431.jpg",
+  "product": "caixa-rl-klt-6431",
+  "pjSlug": "caixa-rl-klt-6431"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/663f22da-aa2a-4275-97e9-1943d7c0e176.jpg",
+  "file": "pj/caixa-rl-klt4315.jpg",
+  "product": "caixa-rl-klt4315",
+  "pjSlug": "caixa-rl-klt4315"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/9734eb72-745b-453f-8a93-ce9d90afe98b.jpg",
+  "file": "pj/caixa-vazada-33-litros.jpg",
+  "product": "caixa-vazada-33-litros",
+  "pjSlug": "caixa-vazada-33-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/1f8202ff-17ad-4aa6-b931-11b9347a08bb.jpg",
+  "file": "pj/caixa-vazada-46-litros-fundo-fechado.jpg",
+  "product": "caixa-vazada-46-litros-fundo-fechado",
+  "pjSlug": "caixa-vazada-46-litros-fundo-fechado"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/138c7ac0-e217-4743-b9cf-3ce2e46e3505.jpg",
+  "file": "pj/caixa-vazada-46-litros.jpg",
+  "product": "caixa-vazada-46-litros",
+  "pjSlug": "caixa-vazada-46-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/7c991908-174b-4b75-81ad-66f68dab7da8.jpg",
+  "file": "pj/caixa-vazada-47-litros.jpg",
+  "product": "caixa-vazada-47-litros",
+  "pjSlug": "caixa-vazada-47-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/bee9a09e-a261-4a60-8508-90697690b2fd.jpg",
+  "file": "pj/caixa-vazada-47-litros-2.jpg",
+  "product": "caixa-vazada-47-litros",
+  "pjSlug": "caixa-vazada-47-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/f6ff49e7-7c4b-48f2-8a6d-2f95e71d24d3.jpg",
+  "file": "pj/caixa-vazada-60-litros.jpg",
+  "product": "caixa-vazada-60-litros",
+  "pjSlug": "caixa-vazada-60-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/4e7079b0-43a0-4ab7-b86a-bcde7b7b1c53.jpg",
+  "file": "pj/caixa-vazada-hfg.jpg",
+  "product": "caixa-vazada-hfg",
+  "pjSlug": "caixa-vazada-hfg"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fcecc8b1f-dcef-4355-baa4-4a37da2f2dce.jpg",
+  "file": "pj/carro-cuba-180-litros.jpg",
+  "product": "carro-cuba-180-litros",
+  "pjSlug": "carrinho-de-transporte-com-caixa-plastica"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F5fc7885d-e555-4d34-9848-0e5d93acc8cb.jpg",
+  "file": "pj/carro-para-caixa-180-litros.jpg",
+  "product": "carro-para-caixa-180-litros",
+  "pjSlug": "carrinho-para-transporte-de-materiais"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F49eea776-e6bf-4d26-8ad4-7f13567fe5d4.png",
+  "file": "pj/cesto-supermercado.png",
+  "product": "cesto-supermercado",
+  "pjSlug": "cesta-de-compras-plastica"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fe35bef43-efc7-42c9-99b8-367dfdd99476.webp",
+  "file": "pj/cesto-plastico-empilhavel-pequeno.webp",
+  "product": "cesto-plastico-empilhavel-pequeno",
+  "pjSlug": "cesto-organizador-plastico"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F4e491282-808e-45e2-9f63-2cb3499c6c8a.webp",
+  "file": "pj/cesto-plastico-empilhavel-medio.webp",
+  "product": "cesto-plastico-empilhavel-medio",
+  "pjSlug": "cesto-organizadora-de-plastico"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/2cf6a5bb-f63b-4b93-a4a2-1966c2387f08.webp",
+  "file": "pj/conjunto-coleta-seletiva-2-lixeiras-60-litros.webp",
+  "product": "conjunto-coleta-seletiva-2-lixeiras-60-litros",
+  "pjSlug": "conjunto-coleta-seletiva-2-lixeiras-60-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/ac58d21e-bedb-4976-82a9-e6ec9b088433.jpg",
+  "file": "pj/conjunto-coleta-seletiva-2-papeleiras-50-litros.jpg",
+  "product": "conjunto-coleta-seletiva-2-papeleiras-50-litros",
+  "pjSlug": "conjunto-coleta-seletiva-2-papeleiras-50-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/f163b7d9-3c38-41fe-93a1-ffa9a55db4a3.jpg",
+  "file": "pj/conjunto-coleta-seletiva-3-lixeiras-60-litros.jpg",
+  "product": "conjunto-coleta-seletiva-3-lixeiras-60-litros",
+  "pjSlug": "conjunto-coleta-seletiva-3-lixeiras-60-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/9bb67181-6970-4f11-9817-1632bcf5f781.jpg",
+  "file": "pj/conjunto-coleta-seletiva-3-papeleiras-50-litros.jpg",
+  "product": "conjunto-coleta-seletiva-3-papeleiras-50-litros",
+  "pjSlug": "conjunto-coleta-seletiva-3-papeleiras-50-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/5a4497be-59f0-402a-8b3b-3e81414e84e2.jpg",
+  "file": "pj/conjunto-coleta-seletiva-4-lixeiras-60-litros.jpg",
+  "product": "conjunto-coleta-seletiva-4-lixeiras-60-litros",
+  "pjSlug": "conjunto-coleta-seletiva-4-lixeiras-60-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/e1e59254-bdef-43d8-8903-4faf2d090b5f.jpg",
+  "file": "pj/conjunto-coleta-seletiva-4-papeleiras.jpg",
+  "product": "conjunto-coleta-seletiva-4-papeleiras",
+  "pjSlug": "conjunto-coleta-seletiva-4-papeleiras"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/4c366d2e-fc18-4df3-9076-56b63917b139.jpg",
+  "file": "pj/conjunto-coleta-seletiva-5-lixeiras-60-litros.jpg",
+  "product": "conjunto-coleta-seletiva-5-lixeiras-60-litros",
+  "pjSlug": "conjunto-coleta-seletiva-5-lixeiras-60-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/b6689e45-122d-44fd-bffa-008facc041a4.jpg",
+  "file": "pj/conjunto-coleta-seletiva-5-papeleiras-50-litros.jpg",
+  "product": "conjunto-coleta-seletiva-5-papeleiras-50-litros",
+  "pjSlug": "conjunto-coleta-seletiva-5-papeleiras-50-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/902fa091-dae1-4d8a-90a3-de9e5fdce8a9.jpg",
+  "file": "pj/conjunto-coleta-seletiva-6-lixeiras-60-litros.jpg",
+  "product": "conjunto-coleta-seletiva-6-lixeiras-60-litros",
+  "pjSlug": "conjunto-coleta-seletiva-6-lixeiras-60-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/15629299-2aae-4559-83c2-d1184bd3a84f.jpg",
+  "file": "pj/conjunto-coleta-seletiva-6-papeleiras-50-litros.jpg",
+  "product": "conjunto-coleta-seletiva-6-papeleiras-50-litros",
+  "pjSlug": "conjunto-coleta-seletiva-6-papeleiras-50-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fdba596ea-6926-4135-9e1d-066ce5789d6a.png",
+  "file": "pj/conjunto-de-mesa-e-cadeira-infantil.png",
+  "product": "conjunto-de-mesa-e-cadeira-infantil",
+  "pjSlug": "conjunto-mesa-e-cadeiras-plasticas"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F7128c3d3-8c9a-4279-ab84-497cd927a40e.jpg",
+  "file": "pj/container-plastico-660-litros-com-pedal.jpg",
+  "product": "container-plastico-660-litros-com-pedal",
+  "pjSlug": "container-de-lixo-1000l-azul"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fab4fd0c3-1afc-4347-8642-3e0a129da33b.jpg",
+  "file": "pj/carro-cuba-430-litros.jpg",
+  "product": "carro-cuba-430-litros",
+  "pjSlug": "container-de-lixo-industrial"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/4dc63962-d580-4b5f-95e9-2ef77e93d47a.gif",
+  "file": "pj/container-rotomoldado-1000-litros-com-pedal.gif",
+  "product": "container-rotomoldado-1000-litros-com-pedal",
+  "pjSlug": "container-rotomoldado-1000-litros-com-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/d27573d2-5311-4c4f-b615-65c4698b572c.webp",
+  "file": "pj/container-rotomoldado-500-litros-com-pedal.webp",
+  "product": "container-rotomoldado-500-litros-com-pedal",
+  "pjSlug": "container-rotomoldado-500-litros-com-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/091bb793-5355-4934-ac21-5ee74d3fcc64.webp",
+  "file": "pj/container-rotomoldado-500-litros.webp",
+  "product": "container-rotomoldado-500-litros",
+  "pjSlug": "container-rotomoldado-500-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/4da4452e-651f-418c-85fc-6db3078102c2.gif",
+  "file": "pj/container-rotomoldado-700-litros-com-pedal.gif",
+  "product": "container-rotomoldado-700-litros-com-pedal",
+  "pjSlug": "container-rotomoldado-700-litros-com-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/285dda54-814d-40f3-8330-906ac6525ef0.gif",
+  "file": "pj/container-rotomoldado-700-litros.gif",
+  "product": "container-rotomoldado-700-litros",
+  "pjSlug": "container-rotomoldado-700-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F7fe8d804-63d4-4b4a-986b-94f144dfabe0.jpg",
+  "file": "pj/container-plastico-660-litros.jpg",
+  "product": "container-plastico-660-litros",
+  "pjSlug": "conteiner-de-lixo-1000l-vermelho"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F48757ec7-80c0-4f0d-8d1f-7ef4aa6c0e33.jpg",
+  "file": "pj/container-rotomoldado-1000-litros-com-tampa-bipartida.jpg",
+  "product": "container-rotomoldado-1000-litros-com-tampa-bipartida",
+  "pjSlug": "contentor-de-lixo-1000l-com-rodas-1"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F0a79bcc5-31f5-45bd-bcb1-27896afe7bcb.webp",
+  "file": "pj/container-rotomoldado-1000-litros.webp",
+  "product": "container-rotomoldado-1000-litros",
+  "pjSlug": "contentor-de-lixo-1000l-com-rodas"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/0dc361c7-a285-41da-b01a-a8fb796eeddf.png",
+  "file": "pj/container-plastico-1000-litros.png",
+  "product": "container-plastico-1000-litros",
+  "pjSlug": "contentor-de-lixo-1000l"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F9d4fb346-8974-450f-b8fc-1e823489a36b.jpg",
+  "file": "pj/container-plastico-1000-litros-2.jpg",
+  "product": "container-plastico-1000-litros",
+  "pjSlug": "contentor-de-lixo-1000l"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fca13538c-dc4a-49e9-b98b-2833f656a6f9.jpg",
+  "file": "pj/container-plastico-1000-litros-com-pedal.jpg",
+  "product": "container-plastico-1000-litros-com-pedal",
+  "pjSlug": "contentor-de-lixo-industrial-1000l"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/29d59d95-0557-40c1-b4c6-ae7e3790422d.jpg",
+  "file": "pj/espreguicadeira-miami.jpg",
+  "product": "espreguicadeira-miami",
+  "pjSlug": "espreguicadeira-miami"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fb20846ca-c37b-40b3-be5c-b22df2b9dcaa.jpg",
+  "file": "pj/espreguicadeira-miami-club.jpg",
+  "product": "espreguicadeira-miami-club",
+  "pjSlug": "espreguicadeira-plastica"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/67a4028c-64a5-4c25-a44f-6cce0eaf4124.jpg",
+  "file": "pj/sem-associacao/espreguicadeira.jpg",
+  "product": null,
+  "pjSlug": "espreguicadeira"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fba3aee7b-d845-48dc-b4e6-57d02108b622.png",
+  "file": "pj/estrado-1060.png",
+  "product": "estrado-1060",
+  "pjSlug": "estrado-plastico-modular"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/7798e63d-e086-409f-8ce4-2ae9b7017076.webp",
+  "file": "pj/gaveteiro-03.webp",
+  "product": "gaveteiro-03",
+  "pjSlug": "gaveteiro-03"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/be4d9242-41eb-4daa-84b7-1187fa646fa2.webp",
+  "file": "pj/sem-associacao/gaveteiro-plastico-bin-no-9-50-litros.webp",
+  "product": null,
+  "pjSlug": "gaveteiro-plastico-bin-no-9-50-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F29a8c1ac-b06f-4b09-9b37-f753ae78b4fb.jpg",
+  "file": "pj/estrado-50x50-cm.jpg",
+  "product": "estrado-50x50-cm",
+  "pjSlug": "grade-de-piso-em-polietileno"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/d569ca69-4da7-4344-895b-656abd29b47b.jpg",
+  "file": "pj/kit-completo-do-carrinho-funcional-de-limpeza.jpg",
+  "product": "kit-completo-do-carrinho-funcional-de-limpeza",
+  "pjSlug": "kit-completo-do-carrinho-funcional-de-limpeza"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/ce1a1854-ff1e-4c16-9503-808ed773030e.jpg",
+  "file": "pj/kit-do-balde-espremedor.jpg",
+  "product": "kit-do-balde-espremedor",
+  "pjSlug": "kit-do-balde-espremedor"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/48e83f27-63bb-479e-b8dc-1fc8c918eec0.jpg",
+  "file": "pj/lixeira-100-litros-com-pedal-e-rodas.jpg",
+  "product": "lixeira-100-litros-com-pedal-e-rodas",
+  "pjSlug": "lixeira-100-litros-c-pedal-e-rodas"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/8cc19978-178d-4c6f-bfed-3e4d7ddd7f70.jpg",
+  "file": "pj/lixeira-100-litros-com-pedal.jpg",
+  "product": "lixeira-100-litros-com-pedal",
+  "pjSlug": "lixeira-100-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/49793839-0b9b-4752-b3ed-648e5e4ebb96.jpg",
+  "file": "pj/lixeira-100-litros-com-pedal-2.jpg",
+  "product": "lixeira-100-litros-com-pedal",
+  "pjSlug": "lixeira-100-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/eff4d7c2-8e4a-4763-8a44-da09028db3e7.jpg",
+  "file": "pj/lixeira-15-litros-com-pedal.jpg",
+  "product": "lixeira-15-litros-com-pedal",
+  "pjSlug": "lixeira-15-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/61d99f04-e0bc-47ab-988b-a29d0a1237eb.jpg",
+  "file": "pj/lixeira-240-litros-com-pedal.jpg",
+  "product": "lixeira-240-litros-com-pedal",
+  "pjSlug": "lixeira-240-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/77d9804c-2987-4abb-8a3d-143cd03e5602.jpg",
+  "file": "pj/lixeira-25-litros-com-pedal.jpg",
+  "product": "lixeira-25-litros-com-pedal",
+  "pjSlug": "lixeira-25-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/93943a68-3c10-4c44-82aa-449faef8ed27.jpg",
+  "file": "pj/lixeira-25-litros-com-pedal-2.jpg",
+  "product": "lixeira-25-litros-com-pedal",
+  "pjSlug": "lixeira-25-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/630de26d-6f8b-45e8-bf01-9728834564c2.jpg",
+  "file": "pj/lixeira-25-litros-com-tampa-vai-e-vem.jpg",
+  "product": "lixeira-25-litros-com-tampa-vai-e-vem",
+  "pjSlug": "lixeira-25-litros-c-tampa-vai-vem"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/8bd491a7-26e8-48ef-afc8-1a6b02f2526d.jpg",
+  "file": "pj/lixeira-50-litros-com-pedal.jpg",
+  "product": "lixeira-50-litros-com-pedal",
+  "pjSlug": "lixeira-50-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/143fc971-dac9-45cf-8387-cef021b3b32f.jpg",
+  "file": "pj/lixeira-50-litros-com-pedal-2.jpg",
+  "product": "lixeira-50-litros-com-pedal",
+  "pjSlug": "lixeira-50-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/18881d26-06c0-424f-8c50-7d8d00aba589.png",
+  "file": "pj/lixeira-60-litros-com-tampa-basculante.png",
+  "product": "lixeira-60-litros-com-tampa-basculante",
+  "pjSlug": "lixeira-60-litros-c-tampa-baculante"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/d6b3b9b7-e98f-44d8-ae5b-6651646d9748.jpg",
+  "file": "pj/lixeira-60-litros-com-tampa-vai-e-vem.jpg",
+  "product": "lixeira-60-litros-com-tampa-vai-e-vem",
+  "pjSlug": "lixeira-60-litros-c-tampa-vai-vem"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/47499c65-56b6-44c7-91df-1b7adf725a24.jpg",
+  "file": "pj/lixeira-100-litros-com-tampa-vai-e-vem.jpg",
+  "product": "lixeira-100-litros-com-tampa-vai-e-vem",
+  "pjSlug": "lixeira-c-tampa-vai-vem-100-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/e68a0f73-c9ac-4e11-a129-a24eeabf2b82.jpg",
+  "file": "pj/lixeira-mix-inox-com-2-divisoes-para-coleta-seletiva.jpg",
+  "product": "lixeira-mix-inox-com-2-divisoes-para-coleta-seletiva",
+  "pjSlug": "lixeira-mix-inox-com-2-divisoes-para-coleta-seletiva"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/7996b74d-0517-4875-a61a-660eee4c38b3.jpg",
+  "file": "pj/lixeira-mix-inox-com-3-divisoes-para-coleta-seletiva.jpg",
+  "product": "lixeira-mix-inox-com-3-divisoes-para-coleta-seletiva",
+  "pjSlug": "lixeira-mix-inox-com-3-divisoes-para-coleta-seletiva"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/de27919b-a761-47ce-9d16-bde118e0fa9c.jpg",
+  "file": "pj/lixeira-mix-plastica-com-2-divisoes-para-coleta-seletiva.jpg",
+  "product": "lixeira-mix-plastica-com-2-divisoes-para-coleta-seletiva",
+  "pjSlug": "lixeira-mix-plastica-com-2-divisoes-para-coleta-seletiva"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/0931b049-3a7f-4df0-9edc-96259468af29.jpg",
+  "file": "pj/lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva.jpg",
+  "product": "lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva",
+  "pjSlug": "lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/e832f744-4dfa-449b-8738-a5f88dffd63b.jpg",
+  "file": "pj/lixeira-papeleira-50-litros-com-poste.jpg",
+  "product": "lixeira-papeleira-50-litros-com-poste",
+  "pjSlug": "lixeira-papeleira-50-litros-c-poste"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/a23f1a5b-d7be-409c-a654-91312859547a.jpg",
+  "file": "pj/lixeira-papeleira-50-litros.jpg",
+  "product": "lixeira-papeleira-50-litros",
+  "pjSlug": "lixeira-papeleira-50-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/493d1f03-763d-487d-9f98-c52fb35a9ed5.jpg",
+  "file": "pj/lixeira-para-descarte-de-pilhas-e-baterias.jpg",
+  "product": "lixeira-para-descarte-de-pilhas-e-baterias",
+  "pjSlug": "lixeira-para-descarte-de-pilhas-e-baterias"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/bf88dbd0-9cc6-447f-98f1-3805a6b285f6.jpg",
+  "file": "pj/lixeira-plastica-120-litros-com-pedal.jpg",
+  "product": "lixeira-plastica-120-litros-com-pedal",
+  "pjSlug": "lixeira-plastica-120-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/8557b6cc-0db6-41aa-9624-6b8914b3b20e.jpg",
+  "file": "pj/lixeira-plastica-120-litros.jpg",
+  "product": "lixeira-plastica-120-litros",
+  "pjSlug": "lixeira-plastica-120-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/c5fc1cbb-4101-49d0-a671-50d523dd4747.jpg",
+  "file": "pj/lixeira-plastica-240-litros.jpg",
+  "product": "lixeira-plastica-240-litros",
+  "pjSlug": "lixeira-plastica-240-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/347bb994-9e99-4ad8-84f9-0299b3f0ee60.jpg",
+  "file": "pj/lixeira-plastica-360-litros.jpg",
+  "product": "lixeira-plastica-360-litros",
+  "pjSlug": "lixeira-plastica-360-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/7d4a6f4a-c66b-4091-ae3e-6a06d83e9b98.jpg",
+  "file": "pj/lixeira-plastica-para-descarte-de-pilhas-e-baterias-40-litros.jpg",
+  "product": "lixeira-plastica-para-descarte-de-pilhas-e-baterias-40-litros",
+  "pjSlug": "lixeira-plastica-para-descarte-de-pilhas-e-baterias-40-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/c3386a3c-41de-4eab-8b5f-737f16a44b46.jpg",
+  "file": "pj/lixeira-plastica-para-descarte-de-pilhas-e-baterias-50-litros.jpg",
+  "product": "lixeira-plastica-para-descarte-de-pilhas-e-baterias-50-litros",
+  "pjSlug": "lixeira-plastica-para-descarte-de-pilhas-e-baterias-50-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/3d954f6f-8392-456b-83ac-0bf748353172.png",
+  "file": "pj/lixeira-quadrada-100-litros-com-pedal-e-rodas.png",
+  "product": "lixeira-quadrada-100-litros-com-pedal-e-rodas",
+  "pjSlug": "lixeira-quadrada-100-litros-c-pedal-e-rodas"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/2aaa6bbb-483c-40d7-91eb-09c70ac3871b.webp",
+  "file": "pj/lixeira-quadrada-15-litros-com-pedal.webp",
+  "product": "lixeira-quadrada-15-litros-com-pedal",
+  "pjSlug": "lixeira-quadrada-15-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/63a892fe-dc79-4eab-8530-44397013a1fb.png",
+  "file": "pj/lixeira-quadrada-25-litros-com-pedal.png",
+  "product": "lixeira-quadrada-25-litros-com-pedal",
+  "pjSlug": "lixeira-quadrada-25-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/36e6bc4f-a092-4e0d-b164-7484e5ed7357.png",
+  "file": "pj/lixeira-quadrada-30-litros-com-pedal.png",
+  "product": "lixeira-quadrada-30-litros-com-pedal",
+  "pjSlug": "lixeira-quadrada-30-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/59fe5f8b-f62b-462c-83b4-f64d224e7399.webp",
+  "file": "pj/lixeira-quadrada-60-litros-com-pedal.webp",
+  "product": "lixeira-quadrada-60-litros-com-pedal",
+  "pjSlug": "lixeira-quadrada-60-litros-c-pedal"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/ba648569-a4da-4ee9-808c-3827c2f7bb30.webp",
+  "file": "pj/lixeira-rotomoldada-100-litros-com-tampa-basculante.webp",
+  "product": "lixeira-rotomoldada-100-litros-com-tampa-basculante",
+  "pjSlug": "lixeira-rotomoldado100-litros-c-tampa-basculante"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/b0625805-3b84-4cab-9217-f4b9131b0a8b.png",
+  "file": "pj/mesa-plastica-monobloco.png",
+  "product": "mesa-plastica-monobloco",
+  "pjSlug": "mesa-plastica-monobloco"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Ffcef3d58-ec70-45d9-b7b4-d495ab2daee3.webp",
+  "file": "pj/mesa-plastica-redonda.webp",
+  "product": "mesa-plastica-redonda",
+  "pjSlug": "mesa-plastica-redonda"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Feb99104b-8e95-405c-a7e9-b0e163920a3b.jpg",
+  "file": "pj/estrado-41x82-cm.jpg",
+  "product": "estrado-41x82-cm",
+  "pjSlug": "mini-palete-plastico-preto"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/22c2fd8d-10f3-4797-94fe-5bcdee690b56.jpg",
+  "file": "pj/pallet-contencao-1-tambor-100-litros.jpg",
+  "product": "pallet-contencao-1-tambor-100-litros",
+  "pjSlug": "pallet-contencao-1-tambor-100-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/27eaf3f9-4803-498a-87f8-98504cd3efb1.jpg",
+  "file": "pj/pallet-contencao-2-tambores-255-litros.jpg",
+  "product": "pallet-contencao-2-tambores-255-litros",
+  "pjSlug": "pallet-contencao-2-tambores-255-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/21dfb8b5-25e8-4130-8d95-f8175845c208.jpg",
+  "file": "pj/pallet-contencao-2-tambores-75-litros.jpg",
+  "product": "pallet-contencao-2-tambores-75-litros",
+  "pjSlug": "pallet-contencao-2-tambores-75-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/b0153185-74b5-46ce-88fc-c39cc2714ef5.jpg",
+  "file": "pj/pallet-contencao-4-tambores-150-litros.jpg",
+  "product": "pallet-contencao-4-tambores-150-litros",
+  "pjSlug": "pallet-contencao-4-tambores-150-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/99906486-c642-4c16-ba06-2f141bd5b205.jpg",
+  "file": "pj/pallet-contencao-4-tambores-420-litros.jpg",
+  "product": "pallet-contencao-4-tambores-420-litros",
+  "pjSlug": "pallet-contencao-4-tambores-420-litros"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/3064720c-72c0-45f8-b73d-51396b9c37b6.png",
+  "file": "pj/sem-associacao/pallet-de-contencao-ibc-1000-litros-04-tambores.png",
+  "product": null,
+  "pjSlug": "pallet-de-contencao-ibc-1000-litros-04-tambores"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/9ef9815e-15cf-4d70-9094-f2acce227f08.jpg",
+  "file": "pj/estrado-25x50-cm.jpg",
+  "product": "estrado-25x50-cm",
+  "pjSlug": "pallet-de-plastico-vazado"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F0d820de7-f45c-456e-adbb-dfc610673b58.jpg",
+  "file": "pj/estrado-25x50-cm-2.jpg",
+  "product": "estrado-25x50-cm",
+  "pjSlug": "pallet-de-plastico-vazado"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/4989f488-c793-44c7-ac26-1c3db8509285.jpg",
+  "file": "pj/pallet-plastico-empilhavel.jpg",
+  "product": "pallet-plastico-empilhavel",
+  "pjSlug": "pallet-plastico-empilhavel"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/e29e3b46-88ef-4e16-b60f-fa48b1aafbef.webp",
+  "file": "pj/pallet-plastico-empilhavel-2.webp",
+  "product": "pallet-plastico-empilhavel",
+  "pjSlug": "pallet-plastico-empilhavel"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/752b4c3c-4e15-468e-b77e-17a00b5ee566.png",
+  "file": "pj/pallet-plastico-heavy.png",
+  "product": "pallet-plastico-heavy",
+  "pjSlug": "pallet-plastico-heavy"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/2206b80d-266a-4dbf-a400-3dc9a5dec5ff.jpg",
+  "file": "pj/pallet-plastico-klt.jpg",
+  "product": "pallet-plastico-klt",
+  "pjSlug": "pallet-plastico-klt"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/65efec05-f129-4371-a793-262c8a015abe.jpg",
+  "file": "pj/pallet-plastico-liso-3-runners.jpg",
+  "product": "pallet-plastico-liso-3-runners",
+  "pjSlug": "pallet-plastico-liso-3-runners"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/8644d6c9-30aa-4c5e-a8d1-f11b733fd159.jpg",
+  "file": "pj/pallet-plastico-liso-6-runners.jpg",
+  "product": "pallet-plastico-liso-6-runners",
+  "pjSlug": "pallet-plastico-liso-6-runners"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/08538000-295e-4e97-b113-c17e70d0e4ce.webp",
+  "file": "pj/pallet-plastico-liso-polietileno.webp",
+  "product": "pallet-plastico-liso-polietileno",
+  "pjSlug": "pallet-plastico-liso-polietileno"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/74ffac41-19d8-408e-8a42-caeae99e0f87.jpg",
+  "file": "pj/pallet-plastico-liso.jpg",
+  "product": "pallet-plastico-liso",
+  "pjSlug": "pallet-plastico-liso"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/13719fad-c895-4240-a1d4-dc39a676dc58.jpg",
+  "file": "pj/pallet-plastico-vazado-3-runners.jpg",
+  "product": "pallet-plastico-vazado-3-runners",
+  "pjSlug": "pallet-plastico-vazado-3-runners"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/e7d2c44a-60eb-405e-92e7-285ba126f7f4.jpg",
+  "file": "pj/pallet-plastico-vazado-6-runners.jpg",
+  "product": "pallet-plastico-vazado-6-runners",
+  "pjSlug": "pallet-plastico-vazado-6-runners"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/e34c5372-a6b1-4ffa-8ac1-b3b9076a237a.jpg",
+  "file": "pj/pallet-plastico-vazado.jpg",
+  "product": "pallet-plastico-vazado",
+  "pjSlug": "pallet-plastico-vazado-d4bf"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/aab46d46-d6a2-452c-826d-74ae9e71a7c1.gif",
+  "file": "pj/pallet-plastico-vazado-polietileno.gif",
+  "product": "pallet-plastico-vazado-polietileno",
+  "pjSlug": "pallet-plastico-vazado-polietileno"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/d7b1f6d4-a509-4ab6-a22c-a389e45d8eb4.jpg",
+  "file": "pj/estrado-50x50x3-cm.jpg",
+  "product": "estrado-50x50x3-cm",
+  "pjSlug": "pallet-plastico-vazado"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fede0ed3a-0bc3-4ba7-8e65-657eeb23ddd4.jpg",
+  "file": "pj/estrado-50x50x3-cm-2.jpg",
+  "product": "estrado-50x50x3-cm",
+  "pjSlug": "pallet-plastico-vazado"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F948415c7-8f81-45dc-9a58-4b07ddf4ad31.jpg",
+  "file": "pj/estrado-40x40-cm.jpg",
+  "product": "estrado-40x40-cm",
+  "pjSlug": "piso-drenante-modular-em-plastico"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fae266df3-cff1-4fa6-aa90-f4ab188344c8.jpg",
+  "file": "pj/bandeja-18.jpg",
+  "product": "bandeja-18",
+  "pjSlug": "plastic-storage-trays"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F842c2527-c54f-49ec-867f-567a5ad22085.jpg",
+  "file": "pj/bandeja-02.jpg",
+  "product": "bandeja-02",
+  "pjSlug": "plastic-utility-tray-set"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82/assets/50eb24f4-c4a0-4f65-a241-154b1493140c.webp",
+  "file": "pj/poltrona-com-braco.webp",
+  "product": "poltrona-com-braco",
+  "pjSlug": "poltrona-com-braco"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2F016dbd5f-171e-4287-bfdf-2ec1e04b4898.jpg",
+  "file": "pj/bandeja-09.jpg",
+  "product": "bandeja-09",
+  "pjSlug": "rectangular-baking-dish"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fe0c13da1-bb2a-4ca6-87cf-f4b3e789f748.jpg",
+  "file": "pj/bandeja-04.jpg",
+  "product": "bandeja-04",
+  "pjSlug": "stackable-plastic-storage-bin"
+ },
+ {
+  "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KJZ716X2TPZ9NGQMHYDXDH82%2Fassets%2Fe7ea0984-de56-4949-a93a-e47db16b39cc.jpg",
+  "file": "pj/bandeja-08.jpg",
+  "product": "bandeja-08",
+  "pjSlug": "stackable-white-ceramic-serving-dishes"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/0c382211-a219-47b3-a55e-095026d63504-0A7WhOLRtaKDAEFJ.png",
+  "file": "pj/conteudo/catalogo-1.png",
+  "product": null,
+  "pjSlug": "catalogo"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/5933502c-220c-4619-a9da-6d8a88318de6-OkBG23qOPGZiHxBt.png",
+  "file": "pj/conteudo/catalogo-2.png",
+  "product": null,
+  "pjSlug": "catalogo"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/73e65e9c-5e74-4d63-80ee-fb74b58fd31d-ftIiW6rtgHeuHiu6.png",
+  "file": "pj/conteudo/home-3.png",
+  "product": null,
+  "pjSlug": "home"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/7535740b-34c2-463c-a0b9-d91488c16c6c-ENFcq2efUMarfaeS.png",
+  "file": "pj/conteudo/home-4.png",
+  "product": null,
+  "pjSlug": "home"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/79100b91-504c-490e-929c-4a7f3ae07b09-ESfJLJsee3DUQ0Ns.png",
+  "file": "pj/conteudo/home-5.png",
+  "product": null,
+  "pjSlug": "home"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/adf69f75-53d9-42ab-92ca-794ca4ae1e91-vJvPd3yEkcRs4Kgj.png",
+  "file": "pj/conteudo/catalogo-6.png",
+  "product": null,
+  "pjSlug": "catalogo"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/c159bcd0-8eca-4319-9047-8e1851e9be4a-XnRn3bD6f2lJElRt.png",
+  "file": "pj/conteudo/home-7.png",
+  "product": null,
+  "pjSlug": "home"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/c27d483b-6a54-4957-99b3-805835304a77-lHZ5d4ppLlGWvKy2.png",
+  "file": "pj/conteudo/catalogo-8.png",
+  "product": null,
+  "pjSlug": "catalogo"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/c636c747-4093-494a-b4dd-565e30ab7339-jkFUBmpJv9RAQupj.png",
+  "file": "pj/conteudo/catalogo-9.png",
+  "product": null,
+  "pjSlug": "catalogo"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/ceaa4562-cef7-445f-9032-c509bbf3785d-E88hGtYHfWzQXUlw.png",
+  "file": "pj/conteudo/contato-10.png",
+  "product": null,
+  "pjSlug": "contato"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/d559c3b6-45ea-4491-b445-12cc92c8e8c5-0ypverLUF9UfQ5XQ.png",
+  "file": "pj/conteudo/home-11.png",
+  "product": null,
+  "pjSlug": "home"
+ },
+ {
+  "url": "https://assets.zyrosite.com/UBmxQdxgVsWIPxXr/d88c6153-d870-4f1c-95d0-92d509fd32e4-utlyRqwLpLTQUTCZ.png",
+  "file": "pj/conteudo/catalogo-12.png",
+  "product": null,
+  "pjSlug": "catalogo"
+ }
+]

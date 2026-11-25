@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.astro/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+# dados brutos baixados (regeneráveis com scripts/fetch.sh)
+raw/pj/html/

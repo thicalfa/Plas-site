@@ -1,0 +1,416 @@
+[
+ {
+  "slug": "poltrona-com-braco",
+  "name": "Poltrona com braço",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "cesto-de-pao-2",
+  "name": "Cesto de Pão",
+  "kind": "medida-malformada",
+  "detail": "Medidas Externa: \"16,5,0 x 59,8 x 70,6 cm\" está com erro de digitação (provável: 16,5 x 59,8 x 70,6 cm)"
+ },
+ {
+  "slug": "cesto-de-pao-2",
+  "name": "Cesto de Pão",
+  "kind": "cubagem",
+  "detail": "cubagem informada 0.5495 m³ ≠ medidas externas prováveis [16.5, 59.8, 70.6] (0.0697 m³)"
+ },
+ {
+  "slug": "cesto-de-pao-2",
+  "name": "Cesto de Pão",
+  "kind": "nome",
+  "detail": "nome repetido no site antigo (\"Cesto de Pão\"); exibido como \"Cesto de Pão 51 litros\""
+ },
+ {
+  "slug": "caixa-fechada-130-litros-2",
+  "name": "Caixa Fechada 130 litros",
+  "kind": "nome",
+  "detail": "nome repetido no site antigo (\"Caixa Fechada 130 litros\"); exibido como \"Caixa Fechada 130 litros (41 x 56 x 78 cm)\""
+ },
+ {
+  "slug": "caixa-fechada-50-litros",
+  "name": "Caixa Fechada 50 litros",
+  "kind": "categoria",
+  "detail": "sem categoria no site antigo; categoria provisória atribuída"
+ },
+ {
+  "slug": "caixa-fechada-74-litros",
+  "name": "Caixa Fechada 74 Litros",
+  "kind": "categoria",
+  "detail": "sem categoria no site antigo; categoria provisória atribuída"
+ },
+ {
+  "slug": "cesto-de-pao",
+  "name": "Cesto de pão",
+  "kind": "medida-malformada",
+  "detail": "Medidas Externa: \"15,5,0 x 58,0 x 66,5 cm\" está com erro de digitação (provável: 15,5 x 58,0 x 66,5 cm)"
+ },
+ {
+  "slug": "cesto-de-pao",
+  "name": "Cesto de pão",
+  "kind": "nome",
+  "detail": "nome repetido no site antigo (\"Cesto de pão\"); exibido como \"Cesto de Pão 40 litros\""
+ },
+ {
+  "slug": "bandeja-18",
+  "name": "Bandeja 18",
+  "kind": "volume",
+  "detail": "volume 18.0 L vs medidas internas [8.5, 34.0, 53.0] (~15.3 L)"
+ },
+ {
+  "slug": "bandeja-04",
+  "name": "Bandeja 04",
+  "kind": "cubagem",
+  "detail": "cubagem informada 0.088 m³ ≠ medidas externas [7.0, 30.0, 42.0] (0.0088 m³)"
+ },
+ {
+  "slug": "espreguicadeira-miami-club",
+  "name": "Espreguiçadeira Miami Club",
+  "kind": "medida-sem-unidade",
+  "detail": "Medidas: \"28,0×67,0×190,0\" sem unidade (provavelmente cm)"
+ },
+ {
+  "slug": "espreguicadeira-miami",
+  "name": "Espreguiçadeira Miami",
+  "kind": "medida-sem-unidade",
+  "detail": "Medidas: \"28,0×67,0×190,0\" sem unidade (provavelmente cm)"
+ },
+ {
+  "slug": "cadeira-juvenil",
+  "name": "Cadeira Juvenil",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "conjunto-de-mesa-e-cadeira-juvenil",
+  "name": "Mesa Juvenil",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "poltrona-infatil",
+  "name": "Conjunto de Mesa e Cadeira Infantil",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "banqueta-plastica",
+  "name": "Banqueta Plástica",
+  "kind": "dados-faltando",
+  "detail": "sem medidas"
+ },
+ {
+  "slug": "banqueta-plastica",
+  "name": "Banqueta Plástica",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "cadeira-bistro",
+  "name": "Cadeira Bistrô",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "mesa-plastica-retangular",
+  "name": "Mesa Plástica Retangular",
+  "kind": "categoria",
+  "detail": "sem categoria no site antigo; categoria provisória atribuída"
+ },
+ {
+  "slug": "mesa-plastica-retangular",
+  "name": "Mesa Plástica Retangular",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "mesa-plastica-redonda",
+  "name": "Mesa Plástica Redonda",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "mesa-monobloco",
+  "name": "Mesa Plástica Monobloco",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "banco-de-plastico-comfort-com-encosto",
+  "name": "Banco de Plástico Comfort",
+  "kind": "categoria",
+  "detail": "sem categoria no site antigo; categoria provisória atribuída"
+ },
+ {
+  "slug": "pa-plastica-com-cabo-e-tampa-plastica",
+  "name": "Pá Plástica com Cabo e Tampa Plástica",
+  "kind": "categoria",
+  "detail": "sem categoria no site antigo; categoria provisória atribuída"
+ },
+ {
+  "slug": "pa-plastica-com-cabo-e-tampa-plastica",
+  "name": "Pá Plástica com Cabo e Tampa Plástica",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "placa-sinalizadora-sem-mensagem",
+  "name": "Kit Completo do Carrinho Funcional de Limpeza",
+  "kind": "dados-faltando",
+  "detail": "sem medidas"
+ },
+ {
+  "slug": "placa-sinalizadora-sem-mensagem",
+  "name": "Kit Completo do Carrinho Funcional de Limpeza",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "placa-sinalizadora-sem-mensagem",
+  "name": "Kit Completo do Carrinho Funcional de Limpeza",
+  "kind": "dados-faltando",
+  "detail": "sem cores"
+ },
+ {
+  "slug": "placa-sinalizadora-piso-escorregadio",
+  "name": "Kit do Balde Espremedor",
+  "kind": "dados-faltando",
+  "detail": "sem medidas"
+ },
+ {
+  "slug": "placa-sinalizadora-piso-escorregadio",
+  "name": "Kit do Balde Espremedor",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "placa-sinalizadora-piso-escorregadio",
+  "name": "Kit do Balde Espremedor",
+  "kind": "dados-faltando",
+  "detail": "sem cores"
+ },
+ {
+  "slug": "placa-sinalizadora-piso-molhado",
+  "name": "Pá Catabituca em Aço Inox",
+  "kind": "medida-malformada",
+  "detail": "Medidas (caçamba aberta): \"82,0, x 22,8 x 11,7 cm\" está com erro de digitação (provável: 82,0 x 22,8 x 11,7 cm)"
+ },
+ {
+  "slug": "placa-sinalizadora-piso-molhado",
+  "name": "Pá Catabituca em Aço Inox",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-mix-inox-com-3-divisoes-para-coleta-seletiva",
+  "name": "Lixeira Mix Inox com 3 Divisões para  Coleta Seletiva",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva",
+  "name": "Lixeira Mix Plástica com 3 Divisões para Coleta Seletiva",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-mix-inox-com-2-divisoes-para-coleta-seletiva",
+  "name": "Lixeira Mix Inox com 2 Divisões para Coleta Seletiva",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-mix-plastica-com-2-divisoes-para-coleta-seletiva",
+  "name": "Lixeira Mix Plástica com 2 Divisões para Coleta Seletiva",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-plastica-para-descarte-de-pilhas-e-baterias-50-litros",
+  "name": "Lixeira Plástica para Descarte de Pilhas e Baterias 50 Litros",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-plastica-para-descarte-de-pilhas-e-baterias",
+  "name": "Lixeira Plástica para Descarte de Pilhas e Baterias 40 Litros",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-para-descarte-de-pilhas-e-baterias",
+  "name": "Lixeira Para Descarte de Pilhas e Baterias",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "pallet-contencao-4-tambores-150-litros",
+  "name": "Pallet Contenção 4 Tambores 150 litros",
+  "kind": "medida-sem-unidade",
+  "detail": "Comprimento com Rampa: \"206,90\" é um número só, sem unidade"
+ },
+ {
+  "slug": "pallet-contencao-4-tambores-150-litros",
+  "name": "Pallet Contenção 4 Tambores 150 litros",
+  "kind": "peso",
+  "detail": "Peso com Rampa: \"42.300 Kg.\" — ponto pode ser milhar ou decimal (provável 42.3 kg); confirmar"
+ },
+ {
+  "slug": "carro-para-caixa-180-litros",
+  "name": "Carro Para Caixa 180 litros",
+  "kind": "dados-faltando",
+  "detail": "sem cores"
+ },
+ {
+  "slug": "carro-coletor-370-litros",
+  "name": "Carro Coletor 370 litros",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "caixa-plastica-370-litros",
+  "name": "Caixa Plástica 370 litros",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-quadrada-25-litros-c-pedal",
+  "name": "Lixeira Quadrada 25 litros c/ pedal",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-quadrada-100-litros-c-pedal-e-rodas",
+  "name": "Lixeira Quadrada 100 litros c/ pedal e Rodas",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-quadrada-60-litros-c-pedal",
+  "name": "Lixeira Quadrada 60 litros c/ pedal",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-quadrada-30-litros-c-pedal",
+  "name": "Lixeira Quadrada 30 litros c/ pedal",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-quadrada-15-litros-c-pedal",
+  "name": "Lixeira Quadrada 15 litros c/ pedal",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "container-plasticos-1000-litros-com-pedal",
+  "name": "Container Plásticos 1000 Litros com Pedal",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "container-plastico-1000-litros",
+  "name": "Container Plástico 1000 Litros",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "container-plastico-660-litros-com-pedal",
+  "name": "Container Plástico 660 litros Com Pedal",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "container-plastico-660-litros",
+  "name": "Container Plástico 660 Litros",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-100-litros-c-tampa-basculante",
+  "name": "Lixeira Rotomoldado100 litros c/ tampa basculante",
+  "kind": "peso",
+  "detail": "Peso: \"2.200 Kg.\" — ponto pode ser milhar ou decimal (provável 2.2 kg); confirmar"
+ },
+ {
+  "slug": "lixeira-100-litros-c-tampa-basculante",
+  "name": "Lixeira Rotomoldado100 litros c/ tampa basculante",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-60-litros-c-tampa-baculante",
+  "name": "Lixeira 60 litros c/ tampa baculante",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "gaveteiro-08",
+  "name": "Gaveteiro 08",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-25-litros-c-tampa-vai-vem",
+  "name": "Lixeira 25 litros c/ tampa vai vem",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "gaveteiro-07",
+  "name": "Gaveteiro 07",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-60-litros-c-tampa-vai-vem",
+  "name": "Lixeira 60 litros c/ tampa vai vem",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "gaveteiro-06",
+  "name": "Gaveteiro 06",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "gaveteiro-05",
+  "name": "Gaveteiro 05",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-c-tampa-vai-vem-100-litros",
+  "name": "Lixeira c/ tampa vai vem 100  litros",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "gaveteiro-04",
+  "name": "Gaveteiro 04",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "gaveteiro-03",
+  "name": "Gaveteiro 03",
+  "kind": "dados-faltando",
+  "detail": "sem peso"
+ },
+ {
+  "slug": "lixeira-100-litros-c-pedal",
+  "name": "Lixeira 100 litros c/ pedal",
+  "kind": "medida-malformada",
+  "detail": "Medidas: \"92,5 x 42,5 x 59,5,0 cm\" está com erro de digitação (provável: 92,5 x 42,5 x 59,5 cm)"
+ },
+ {
+  "slug": "caixa-fechada-130-litros",
+  "name": "Caixa Fechada 130 litros",
+  "kind": "nome",
+  "detail": "nome repetido no site antigo (\"Caixa Fechada 130 litros\"); exibido como \"Caixa Fechada 130 litros (40,5 x 55,5 x 76 cm)\""
+ }
+]

@@ -1,0 +1,4739 @@
+{
+ "banco-de-plastico-comfort": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "bandeja-02": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "bandeja-02-2": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "bandeja-04": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "bandeja-04-2": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "bandeja-04-3": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "bandeja-08": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "bandeja-08-2": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "bandeja-09": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "bandeja-18": {
+  "w": 1200,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "bandeja-18-2": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "banqueta-plastica": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "banqueta-plastica-2": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cadeira-bistro": {
+  "w": 228,
+  "h": 228,
+  "widths": [
+   228
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "cadeira-juvenil": {
+  "w": 280,
+  "h": 280,
+  "widths": [
+   280
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cadeira-juvenil-2": {
+  "w": 270,
+  "h": 270,
+  "widths": [
+   270
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cadeira-juvenil-3": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-alc-6437": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-alc-6437-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-03": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-03-2": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-05": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-05-2": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-06": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-06-2": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-06-3": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-130-litros-76": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-130-litros-76-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-130-litros-76-3": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-130-litros-78": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "caixa-fechada-130-litros-78-2": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "caixa-fechada-15-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-15-litros-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-15-litros-3": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-180-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-180-litros-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-26-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-36-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-36-litros-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-36-litros-3": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-38-litros": {
+  "w": 284,
+  "h": 247,
+  "widths": [
+   284
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-38-litros-2": {
+  "w": 450,
+  "h": 450,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-4-2-litros": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-4-2-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-46-litros": {
+  "w": 450,
+  "h": 450,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "caixa-fechada-50-litros": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "caixa-fechada-50-litros-2": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "caixa-fechada-50-litros-3": {
+  "w": 709,
+  "h": 613,
+  "widths": [
+   480
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "caixa-fechada-50-litros-4": {
+  "w": 709,
+  "h": 613,
+  "widths": [
+   480
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "caixa-fechada-61-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-61-litros-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-61-litros-3": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-7-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-7-litros-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-70-litros": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-70-litros-2": {
+  "w": 450,
+  "h": 450,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-fechada-74-litros": {
+  "w": 613,
+  "h": 613,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "caixa-fechada-74-litros-2": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "caixa-frigorifica-42-litros": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-frigorifica-42-litros-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-galia-1322": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-galia-1322-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-hortifruti-vazada-46-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-pallet-glt": {
+  "w": 600,
+  "h": 594,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-pallet-glt-2": {
+  "w": 1678,
+  "h": 1422,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-pallet-glt-3": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-plastica-370-litros": {
+  "w": 400,
+  "h": 326,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-plastica-370-litros-2": {
+  "w": 400,
+  "h": 326,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-plastica-370-litros-3": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "caixa-plastica-370-litros-4": {
+  "w": 1280,
+  "h": 642,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-3215": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-3215-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-3215-3": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-3215-4": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-4315": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-4315-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-4329": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-4329-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-4329-3": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-4329-4": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-6428": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-r-klt-6428-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt-3147": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt-3147-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt-3147-3": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt-4322": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt-4322-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt-4322-3": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt-4322-4": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt-6421": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt-6431": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-rl-klt4315": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-vazada-33-litros": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-vazada-46-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-vazada-46-litros-fundo-fechado": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-vazada-47-litros": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-vazada-60-litros": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-vazada-64": {
+  "w": 709,
+  "h": 613,
+  "widths": [
+   480
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "caixa-vazada-64-2": {
+  "w": 709,
+  "h": 613,
+  "widths": [
+   480
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "caixa-vazada-78": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "caixa-vazada-hfg": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "caixa-vazada-hfg-2": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "carro-coletor-370-litros": {
+  "w": 450,
+  "h": 450,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "carro-coletor-370-litros-2": {
+  "w": 600,
+  "h": 521,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "carro-coletor-370-litros-3": {
+  "w": 800,
+  "h": 800,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "carro-coletor-370-litros-4": {
+  "w": 500,
+  "h": 328,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "carro-coletor-370-litros-5": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "carro-coletor-370-litros-6": {
+  "w": 462,
+  "h": 358,
+  "widths": [
+   462
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "carro-cuba-180-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "carro-cuba-430-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "carro-cuba-430-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "carro-para-caixa-180-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "carro-para-caixa-180-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-100-litros-redondo": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-100-litros-redondo-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-100-litros-redondo-3": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-100-litros-redondo-com-pedal": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-15-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-de-lixo-15-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-15-litros-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-de-lixo-15-litros-4": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-de-lixo-15-litros-com-tampa-basculante": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-15-litros-com-tampa-basculante-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-15-litros-com-tampa-basculante-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-15-litros-com-tampa-basculante-4": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-de-lixo-15-litros-com-tampa-flip-top": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-15-litros-com-tampa-flip-top-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-15-litros-com-tampa-flip-top-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-15-litros-com-tampa-flip-top-4": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-23-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-23-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-23-litros-com-tampa-basculante": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-de-lixo-23-litros-com-tampa-basculante-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-de-lixo-23-litros-com-tampa-flip-top": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-de-lixo-23-litros-com-tampa-flip-top-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-60-litros-redondo": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-60-litros-redondo-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-60-litros-redondo-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-60-litros-redondo-com-pedal": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-60-litros-redondo-com-pedal-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-lixo-60-litros-redondo-com-pedal-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "cesto-de-pao-40-litros": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "cesto-de-pao-40-litros-2": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "cesto-de-pao-40-litros-3": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "cesto-de-pao-51-litros": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "cesto-de-pao-51-litros-2": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "cesto-de-pao-51-litros-3": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "cesto-plastico-empilhavel-medio": {
+  "w": 600,
+  "h": 600,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-plastico-empilhavel-medio-2": {
+  "w": 600,
+  "h": 600,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-plastico-empilhavel-medio-3": {
+  "w": 600,
+  "h": 600,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-plastico-empilhavel-medio-4": {
+  "w": 600,
+  "h": 600,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-plastico-empilhavel-pequeno": {
+  "w": 600,
+  "h": 600,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-plastico-empilhavel-pequeno-2": {
+  "w": 600,
+  "h": 600,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-plastico-empilhavel-pequeno-3": {
+  "w": 600,
+  "h": 600,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-plastico-empilhavel-pequeno-4": {
+  "w": 600,
+  "h": 600,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "cesto-supermercado": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "cesto-supermercado-2": {
+  "w": 817,
+  "h": 613,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "cesto-supermercado-3": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "conjunto-coleta-seletiva-2-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "conjunto-coleta-seletiva-2-lixeiras-60-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-2-papeleiras-50-litros": {
+  "w": 480,
+  "h": 479,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-2-papeleiras-50-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-2-papeleiras-50-litros-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-3-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-3-lixeiras-60-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-3-papeleiras-50-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-3-papeleiras-50-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-3-papeleiras-50-litros-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-4-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-4-lixeiras-60-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-4-papeleiras": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-4-papeleiras-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-4-papeleiras-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-5-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-5-lixeiras-60-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-5-papeleiras-50-litros": {
+  "w": 480,
+  "h": 479,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-5-papeleiras-50-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-5-papeleiras-50-litros-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-6-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-6-lixeiras-60-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-6-papeleiras-50-litros": {
+  "w": 480,
+  "h": 481,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-6-papeleiras-50-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-coleta-seletiva-6-papeleiras-50-litros-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "conjunto-de-mesa-e-cadeira-infantil": {
+  "w": 809,
+  "h": 572,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "container-plastico-1000-litros": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "container-plastico-1000-litros-com-pedal": {
+  "w": 1280,
+  "h": 1266,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "container-plastico-660-litros": {
+  "w": 739,
+  "h": 620,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "container-plastico-660-litros-com-pedal": {
+  "w": 1280,
+  "h": 1075,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "container-rotomoldado-1000-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "container-rotomoldado-1000-litros-com-pedal": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "gif"
+ },
+ "container-rotomoldado-1000-litros-com-tampa-bipartida": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "container-rotomoldado-1000-litros-com-tampa-bipartida-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "container-rotomoldado-1000-litros-com-tampa-bipartida-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "container-rotomoldado-500-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "container-rotomoldado-500-litros-com-pedal": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "container-rotomoldado-700-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "gif"
+ },
+ "container-rotomoldado-700-litros-com-pedal": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "gif"
+ },
+ "espreguicadeira-miami": {
+  "w": 700,
+  "h": 700,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "espreguicadeira-miami-2": {
+  "w": 240,
+  "h": 400,
+  "widths": [
+   240
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "espreguicadeira-miami-club": {
+  "w": 1280,
+  "h": 854,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "espreguicadeira-miami-club-2": {
+  "w": 1280,
+  "h": 854,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "estrado-1060": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "estrado-1060-2": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "estrado-1060-3": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "estrado-25x50-cm": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "estrado-40x40-cm": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "estrado-41x82-cm": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "estrado-41x82-cm-2": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "estrado-50x50-cm": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "estrado-50x50-cm-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "estrado-50x50-cm-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "estrado-50x50x3-cm": {
+  "w": 6000,
+  "h": 4000,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "gaveteiro-03": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-03-2": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-03-3": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-04": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-04-2": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-04-3": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-05": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-05-2": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-05-3": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-06": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-06-2": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-06-3": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-07": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-07-2": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-07-3": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-08": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-08-2": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "gaveteiro-08-3": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "kit-completo-do-carrinho-funcional-de-limpeza": {
+  "w": 207,
+  "h": 181,
+  "widths": [
+   207
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "kit-do-balde-espremedor": {
+  "w": 872,
+  "h": 740,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-100-litros-com-pedal": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-100-litros-com-pedal-2": {
+  "w": 491,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-100-litros-com-pedal-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-100-litros-com-pedal-e-rodas": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-100-litros-com-tampa-vai-e-vem": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-15-litros-com-pedal": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-15-litros-com-pedal-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "lixeira-15-litros-com-pedal-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "lixeira-240-litros-com-pedal": {
+  "w": 280,
+  "h": 280,
+  "widths": [
+   280
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-25-litros-com-pedal": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-25-litros-com-pedal-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-25-litros-com-pedal-3": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-25-litros-com-tampa-vai-e-vem": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-50-litros-com-pedal": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-50-litros-com-pedal-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-50-litros-com-pedal-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-50-litros-com-pedal-4": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-60-litros-com-tampa-basculante": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-60-litros-com-tampa-basculante-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "lixeira-60-litros-com-tampa-vai-e-vem": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-mix-inox-com-2-divisoes-para-coleta-seletiva": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-mix-inox-com-3-divisoes-para-coleta-seletiva": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-mix-inox-com-3-divisoes-para-coleta-seletiva-2": {
+  "w": 480,
+  "h": 640,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-mix-plastica-com-2-divisoes-para-coleta-seletiva": {
+  "w": 1057,
+  "h": 1280,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva": {
+  "w": 1118,
+  "h": 1224,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva-2": {
+  "w": 1153,
+  "h": 1224,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva-3": {
+  "w": 992,
+  "h": 1224,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-papeleira-50-litros": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-papeleira-50-litros-2": {
+  "w": 550,
+  "h": 198,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-papeleira-50-litros-com-poste": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-papeleira-50-litros-com-poste-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-papeleira-50-litros-com-poste-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-para-descarte-de-pilhas-e-baterias": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-para-descarte-de-pilhas-e-baterias-2": {
+  "w": 734,
+  "h": 600,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-plastica-120-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-plastica-120-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "lixeira-plastica-120-litros-3": {
+  "w": 573,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-plastica-120-litros-com-pedal": {
+  "w": 280,
+  "h": 280,
+  "widths": [
+   280
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-plastica-240-litros": {
+  "w": 280,
+  "h": 280,
+  "widths": [
+   280
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-plastica-240-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-plastica-240-litros-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-plastica-240-litros-4": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-plastica-240-litros-5": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-plastica-240-litros-6": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-plastica-360-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-plastica-para-descarte-de-pilhas-e-baterias-40-litros": {
+  "w": 900,
+  "h": 900,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-plastica-para-descarte-de-pilhas-e-baterias-50-litros": {
+  "w": 900,
+  "h": 900,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-quadrada-100-litros-com-pedal-e-rodas": {
+  "w": 800,
+  "h": 600,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "lixeira-quadrada-100-litros-com-pedal-e-rodas-2": {
+  "w": 600,
+  "h": 800,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-quadrada-100-litros-com-pedal-e-rodas-3": {
+  "w": 628,
+  "h": 1024,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "lixeira-quadrada-15-litros-com-pedal": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "lixeira-quadrada-25-litros-com-pedal": {
+  "w": 450,
+  "h": 450,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-quadrada-30-litros-com-pedal": {
+  "w": 450,
+  "h": 450,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "lixeira-quadrada-60-litros-com-pedal": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "lixeira-quadrada-60-litros-com-pedal-2": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "lixeira-rotomoldada-100-litros-com-tampa-basculante": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "lixeira-rotomoldada-100-litros-com-tampa-basculante-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "mesa-juvenil": {
+  "w": 458,
+  "h": 458,
+  "widths": [
+   458
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "mesa-juvenil-2": {
+  "w": 280,
+  "h": 280,
+  "widths": [
+   280
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "mesa-juvenil-3": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "mesa-juvenil-4": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "mesa-juvenil-5": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "mesa-plastica-monobloco": {
+  "w": 500,
+  "h": 667,
+  "widths": [
+   480
+  ],
+  "hasAlpha": true,
+  "format": "webp"
+ },
+ "mesa-plastica-monobloco-2": {
+  "w": 460,
+  "h": 572,
+  "widths": [
+   460
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "mesa-plastica-monobloco-3": {
+  "w": 460,
+  "h": 572,
+  "widths": [
+   460
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "mesa-plastica-redonda": {
+  "w": 225,
+  "h": 225,
+  "widths": [
+   225
+  ],
+  "hasAlpha": true,
+  "format": "webp"
+ },
+ "mesa-plastica-retangular": {
+  "w": 500,
+  "h": 414,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pa-catabituca-em-aco-inox": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pa-plastica-com-cabo-e-tampa-plastica": {
+  "w": 277,
+  "h": 281,
+  "widths": [
+   277
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-1-tambor-100-litros": {
+  "w": 474,
+  "h": 474,
+  "widths": [
+   474
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-2-tambores-255-litros": {
+  "w": 450,
+  "h": 409,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-2-tambores-255-litros-2": {
+  "w": 474,
+  "h": 474,
+  "widths": [
+   474
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-2-tambores-75-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-2-tambores-75-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-2-tambores-75-litros-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-4-tambores-150-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-4-tambores-150-litros-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-4-tambores-150-litros-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-4-tambores-420-litros": {
+  "w": 474,
+  "h": 474,
+  "widths": [
+   474
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-contencao-4-tambores-420-litros-2": {
+  "w": 645,
+  "h": 645,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-empilhavel": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pallet-plastico-empilhavel-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pallet-plastico-empilhavel-3": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "pallet-plastico-empilhavel-4": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-heavy": {
+  "w": 300,
+  "h": 300,
+  "widths": [
+   300
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-heavy-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pallet-plastico-heavy-3": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-heavy-4": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pallet-plastico-heavy-5": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-klt": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-liso": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-liso-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-liso-3-runners": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-liso-3-runners-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-liso-6-runners": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-liso-6-runners-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-liso-6-runners-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-liso-6-runners-4": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-liso-polietileno": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pallet-plastico-vazado": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-vazado-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-vazado-3-runners": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-vazado-3-runners-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-vazado-3-runners-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-vazado-6-runners": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-vazado-6-runners-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-vazado-6-runners-3": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pallet-plastico-vazado-polietileno": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "gif"
+ },
+ "pj/bandeja-02": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/bandeja-04": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/bandeja-08": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/bandeja-09": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/bandeja-18": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/banqueta-plastica": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/cadeira-bistro": {
+  "w": 2912,
+  "h": 1464,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/cadeira-bistro-2": {
+  "w": 228,
+  "h": 228,
+  "widths": [
+   228
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/cadeira-juvenil": {
+  "w": 270,
+  "h": 270,
+  "widths": [
+   270
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-alc-6437": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-130-litros-76": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-15-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-180-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-26-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-36-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-38-litros": {
+  "w": 284,
+  "h": 247,
+  "widths": [
+   284
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-4-2-litros": {
+  "w": 2560,
+  "h": 1707,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-46-litros": {
+  "w": 450,
+  "h": 450,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/caixa-fechada-61-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-7-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-fechada-70-litros": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-frigorifica-42-litros": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-galia-1322": {
+  "w": 2560,
+  "h": 1707,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-hortifruti-vazada-46-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-plastica-370-litros": {
+  "w": 400,
+  "h": 326,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-r-klt-3215": {
+  "w": 2560,
+  "h": 1707,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-r-klt-4315": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-r-klt-4329": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-r-klt-6428": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-rl-klt-3147": {
+  "w": 2560,
+  "h": 1707,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-rl-klt-4322": {
+  "w": 2560,
+  "h": 1707,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-rl-klt-6421": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-rl-klt-6431": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-rl-klt4315": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-vazada-33-litros": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-vazada-46-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-vazada-46-litros-fundo-fechado": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-vazada-47-litros": {
+  "w": 2912,
+  "h": 1464,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-vazada-47-litros-2": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-vazada-60-litros": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/caixa-vazada-hfg": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/carro-coletor-370-litros": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/carro-cuba-180-litros": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/carro-cuba-430-litros": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/carro-para-caixa-180-litros": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/cesto-de-pao-40-litros": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/cesto-de-pao-51-litros": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/cesto-plastico-empilhavel-medio": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/cesto-plastico-empilhavel-pequeno": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/cesto-supermercado": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conjunto-coleta-seletiva-2-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/conjunto-coleta-seletiva-2-papeleiras-50-litros": {
+  "w": 480,
+  "h": 479,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/conjunto-coleta-seletiva-3-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/conjunto-coleta-seletiva-3-papeleiras-50-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/conjunto-coleta-seletiva-4-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/conjunto-coleta-seletiva-4-papeleiras": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/conjunto-coleta-seletiva-5-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/conjunto-coleta-seletiva-5-papeleiras-50-litros": {
+  "w": 480,
+  "h": 479,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/conjunto-coleta-seletiva-6-lixeiras-60-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/conjunto-coleta-seletiva-6-papeleiras-50-litros": {
+  "w": 480,
+  "h": 481,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/conjunto-de-mesa-e-cadeira-infantil": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "pj/container-plastico-1000-litros": {
+  "w": 768,
+  "h": 768,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/container-plastico-1000-litros-2": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/container-plastico-1000-litros-com-pedal": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/container-plastico-660-litros": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/container-plastico-660-litros-com-pedal": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/container-rotomoldado-1000-litros": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/container-rotomoldado-1000-litros-com-pedal": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "gif"
+ },
+ "pj/container-rotomoldado-1000-litros-com-tampa-bipartida": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/container-rotomoldado-500-litros": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/container-rotomoldado-500-litros-com-pedal": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/container-rotomoldado-700-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "gif"
+ },
+ "pj/container-rotomoldado-700-litros-com-pedal": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "gif"
+ },
+ "pj/conteudo/catalogo-1": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/catalogo-12": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/catalogo-2": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/catalogo-6": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/catalogo-8": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/catalogo-9": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/contato-10": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/home-11": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/home-3": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/home-4": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/home-5": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/conteudo/home-7": {
+  "w": 1536,
+  "h": 1024,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/espreguicadeira-miami": {
+  "w": 700,
+  "h": 700,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/espreguicadeira-miami-club": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/estrado-1060": {
+  "w": 600,
+  "h": 450,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/estrado-25x50-cm": {
+  "w": 2912,
+  "h": 1464,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/estrado-25x50-cm-2": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/estrado-40x40-cm": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/estrado-41x82-cm": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/estrado-50x50-cm": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/estrado-50x50x3-cm": {
+  "w": 2912,
+  "h": 1464,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/estrado-50x50x3-cm-2": {
+  "w": 768,
+  "h": 512,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/gaveteiro-03": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/gaveteiro-04": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/gaveteiro-05": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/gaveteiro-06": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/gaveteiro-07": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/gaveteiro-08": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/kit-completo-do-carrinho-funcional-de-limpeza": {
+  "w": 207,
+  "h": 181,
+  "widths": [
+   207
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/kit-do-balde-espremedor": {
+  "w": 872,
+  "h": 740,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-100-litros-com-pedal": {
+  "w": 2912,
+  "h": 1464,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-100-litros-com-pedal-2": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-100-litros-com-pedal-e-rodas": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-100-litros-com-tampa-vai-e-vem": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-15-litros-com-pedal": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-240-litros-com-pedal": {
+  "w": 280,
+  "h": 280,
+  "widths": [
+   280
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-25-litros-com-pedal": {
+  "w": 2912,
+  "h": 1464,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-25-litros-com-pedal-2": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-25-litros-com-tampa-vai-e-vem": {
+  "w": 546,
+  "h": 454,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-50-litros-com-pedal": {
+  "w": 2912,
+  "h": 1464,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-50-litros-com-pedal-2": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-60-litros-com-tampa-basculante": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/lixeira-60-litros-com-tampa-vai-e-vem": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-mix-inox-com-2-divisoes-para-coleta-seletiva": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-mix-inox-com-3-divisoes-para-coleta-seletiva": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-mix-plastica-com-2-divisoes-para-coleta-seletiva": {
+  "w": 1057,
+  "h": 1280,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva": {
+  "w": 1118,
+  "h": 1224,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-papeleira-50-litros": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-papeleira-50-litros-com-poste": {
+  "w": 553,
+  "h": 278,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-para-descarte-de-pilhas-e-baterias": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-plastica-120-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-plastica-120-litros-com-pedal": {
+  "w": 280,
+  "h": 280,
+  "widths": [
+   280
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-plastica-240-litros": {
+  "w": 280,
+  "h": 280,
+  "widths": [
+   280
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-plastica-360-litros": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-plastica-para-descarte-de-pilhas-e-baterias-40-litros": {
+  "w": 900,
+  "h": 900,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-plastica-para-descarte-de-pilhas-e-baterias-50-litros": {
+  "w": 900,
+  "h": 900,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/lixeira-quadrada-100-litros-com-pedal-e-rodas": {
+  "w": 800,
+  "h": 600,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/lixeira-quadrada-15-litros-com-pedal": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/lixeira-quadrada-25-litros-com-pedal": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/lixeira-quadrada-30-litros-com-pedal": {
+  "w": 450,
+  "h": 450,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/lixeira-quadrada-60-litros-com-pedal": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/lixeira-rotomoldada-100-litros-com-tampa-basculante": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/mesa-juvenil": {
+  "w": 280,
+  "h": 280,
+  "widths": [
+   280
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/mesa-plastica-monobloco": {
+  "w": 460,
+  "h": 572,
+  "widths": [
+   460
+  ],
+  "hasAlpha": true,
+  "format": "png"
+ },
+ "pj/mesa-plastica-redonda": {
+  "w": 225,
+  "h": 225,
+  "widths": [
+   225
+  ],
+  "hasAlpha": true,
+  "format": "webp"
+ },
+ "pj/pallet-contencao-1-tambor-100-litros": {
+  "w": 474,
+  "h": 474,
+  "widths": [
+   474
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-contencao-2-tambores-255-litros": {
+  "w": 450,
+  "h": 409,
+  "widths": [
+   450
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-contencao-2-tambores-75-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-contencao-4-tambores-150-litros": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-contencao-4-tambores-420-litros": {
+  "w": 474,
+  "h": 474,
+  "widths": [
+   474
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-plastico-empilhavel": {
+  "w": 2048,
+  "h": 2048,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-plastico-empilhavel-2": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/pallet-plastico-heavy": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "pj/pallet-plastico-klt": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-plastico-liso": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-plastico-liso-3-runners": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-plastico-liso-6-runners": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-plastico-liso-polietileno": {
+  "w": 400,
+  "h": 400,
+  "widths": [
+   400
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/pallet-plastico-vazado": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-plastico-vazado-3-runners": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-plastico-vazado-6-runners": {
+  "w": 480,
+  "h": 480,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/pallet-plastico-vazado-polietileno": {
+  "w": 380,
+  "h": 380,
+  "widths": [
+   380
+  ],
+  "hasAlpha": false,
+  "format": "gif"
+ },
+ "pj/poltrona-com-braco": {
+  "w": 1400,
+  "h": 1873,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/sem-associacao/espreguicadeira": {
+  "w": 1473,
+  "h": 1600,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ },
+ "pj/sem-associacao/gaveteiro-plastico-bin-no-9-50-litros": {
+  "w": 1000,
+  "h": 1000,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "pj/sem-associacao/pallet-de-contencao-ibc-1000-litros-04-tambores": {
+  "w": 1024,
+  "h": 1536,
+  "widths": [
+   480,
+   768
+  ],
+  "hasAlpha": false,
+  "format": "png"
+ },
+ "poltrona-com-braco": {
+  "w": 1400,
+  "h": 1873,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "poltrona-com-braco-2": {
+  "w": 1400,
+  "h": 1873,
+  "widths": [
+   480,
+   768,
+   1200
+  ],
+  "hasAlpha": false,
+  "format": "webp"
+ },
+ "tampa-caixa-glt-pallet": {
+  "w": 500,
+  "h": 500,
+  "widths": [
+   480
+  ],
+  "hasAlpha": false,
+  "format": "jpeg"
+ }
+}

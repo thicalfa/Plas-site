@@ -1,0 +1,876 @@
+{
+ "redirects": [
+  {
+   "from": "/produto/poltrona-com-braco/",
+   "to": "/produtos/moveis-plasticos/poltrona-com-braco/"
+  },
+  {
+   "from": "/produto/caixa-fechada-06/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-06/"
+  },
+  {
+   "from": "/produto/caixa-fechada-05/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-05/"
+  },
+  {
+   "from": "/produto/caixa-fechada-03/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-03/"
+  },
+  {
+   "from": "/produto/cesto-de-pao-2/",
+   "to": "/produtos/cestos-e-gaveteiros/cesto-de-pao-51-litros/"
+  },
+  {
+   "from": "/produto/caixa-vazada-78/",
+   "to": "/produtos/caixas-plasticas/caixa-vazada-78/"
+  },
+  {
+   "from": "/produto/caixa-vazada-64/",
+   "to": "/produtos/caixas-plasticas/caixa-vazada-64/"
+  },
+  {
+   "from": "/produto/caixa-fechada-130-litros-2/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-130-litros-78/"
+  },
+  {
+   "from": "/produto/estrado-1060/",
+   "to": "/produtos/estrados/estrado-1060/"
+  },
+  {
+   "from": "/produto/caixa-fechada-50-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-50-litros/"
+  },
+  {
+   "from": "/produto/caixa-fechada-74-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-74-litros/"
+  },
+  {
+   "from": "/produto/cesto-supermercado/",
+   "to": "/produtos/cestos-e-gaveteiros/cesto-supermercado/"
+  },
+  {
+   "from": "/produto/cesto-de-pao/",
+   "to": "/produtos/cestos-e-gaveteiros/cesto-de-pao-40-litros/"
+  },
+  {
+   "from": "/produto/bandeja-18/",
+   "to": "/produtos/bandejas/bandeja-18/"
+  },
+  {
+   "from": "/produto/bandeja-08/",
+   "to": "/produtos/bandejas/bandeja-08/"
+  },
+  {
+   "from": "/produto/bandeja-09/",
+   "to": "/produtos/bandejas/bandeja-09/"
+  },
+  {
+   "from": "/produto/bandeja-04/",
+   "to": "/produtos/bandejas/bandeja-04/"
+  },
+  {
+   "from": "/produto/bandeja-02/",
+   "to": "/produtos/bandejas/bandeja-02/"
+  },
+  {
+   "from": "/produto/espreguicadeira-miami-club/",
+   "to": "/produtos/moveis-plasticos/espreguicadeira-miami-club/"
+  },
+  {
+   "from": "/produto/espreguicadeira-miami/",
+   "to": "/produtos/moveis-plasticos/espreguicadeira-miami/"
+  },
+  {
+   "from": "/produto/cadeira-juvenil/",
+   "to": "/produtos/moveis-plasticos/cadeira-juvenil/"
+  },
+  {
+   "from": "/produto/conjunto-de-mesa-e-cadeira-juvenil/",
+   "to": "/produtos/moveis-plasticos/mesa-juvenil/"
+  },
+  {
+   "from": "/produto/poltrona-infatil/",
+   "to": "/produtos/moveis-plasticos/conjunto-de-mesa-e-cadeira-infantil/"
+  },
+  {
+   "from": "/produto/banqueta-plastica/",
+   "to": "/produtos/moveis-plasticos/banqueta-plastica/"
+  },
+  {
+   "from": "/produto/cadeira-bistro/",
+   "to": "/produtos/moveis-plasticos/cadeira-bistro/"
+  },
+  {
+   "from": "/produto/mesa-plastica-retangular/",
+   "to": "/produtos/moveis-plasticos/mesa-plastica-retangular/"
+  },
+  {
+   "from": "/produto/mesa-plastica-redonda/",
+   "to": "/produtos/moveis-plasticos/mesa-plastica-redonda/"
+  },
+  {
+   "from": "/produto/mesa-monobloco/",
+   "to": "/produtos/moveis-plasticos/mesa-plastica-monobloco/"
+  },
+  {
+   "from": "/produto/banco-de-plastico-comfort-com-encosto/",
+   "to": "/produtos/moveis-plasticos/banco-de-plastico-comfort/"
+  },
+  {
+   "from": "/produto/pa-plastica-com-cabo-e-tampa-plastica/",
+   "to": "/produtos/containers-e-carros/pa-plastica-com-cabo-e-tampa-plastica/"
+  },
+  {
+   "from": "/produto/placa-sinalizadora-sem-mensagem/",
+   "to": "/produtos/containers-e-carros/kit-completo-do-carrinho-funcional-de-limpeza/"
+  },
+  {
+   "from": "/produto/placa-sinalizadora-piso-escorregadio/",
+   "to": "/produtos/containers-e-carros/kit-do-balde-espremedor/"
+  },
+  {
+   "from": "/produto/placa-sinalizadora-piso-molhado/",
+   "to": "/produtos/lixeiras/pa-catabituca-em-aco-inox/"
+  },
+  {
+   "from": "/produto/lixeira-mix-inox-com-3-divisoes-para-coleta-seletiva/",
+   "to": "/produtos/lixeiras/lixeira-mix-inox-com-3-divisoes-para-coleta-seletiva/"
+  },
+  {
+   "from": "/produto/lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva/",
+   "to": "/produtos/lixeiras/lixeira-mix-plastica-com-3-divisoes-para-coleta-seletiva/"
+  },
+  {
+   "from": "/produto/lixeira-mix-inox-com-2-divisoes-para-coleta-seletiva/",
+   "to": "/produtos/lixeiras/lixeira-mix-inox-com-2-divisoes-para-coleta-seletiva/"
+  },
+  {
+   "from": "/produto/lixeira-mix-plastica-com-2-divisoes-para-coleta-seletiva/",
+   "to": "/produtos/lixeiras/lixeira-mix-plastica-com-2-divisoes-para-coleta-seletiva/"
+  },
+  {
+   "from": "/produto/lixeira-plastica-para-descarte-de-pilhas-e-baterias-50-litros/",
+   "to": "/produtos/lixeiras/lixeira-plastica-para-descarte-de-pilhas-e-baterias-50-litros/"
+  },
+  {
+   "from": "/produto/lixeira-plastica-para-descarte-de-pilhas-e-baterias/",
+   "to": "/produtos/lixeiras/lixeira-plastica-para-descarte-de-pilhas-e-baterias-40-litros/"
+  },
+  {
+   "from": "/produto/lixeira-para-descarte-de-pilhas-e-baterias/",
+   "to": "/produtos/lixeiras/lixeira-para-descarte-de-pilhas-e-baterias/"
+  },
+  {
+   "from": "/produto/caixa-fechada-38-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-38-litros/"
+  },
+  {
+   "from": "/produto/caixa-fechada-70-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-70-litros/"
+  },
+  {
+   "from": "/produto/pallet-contencao-1-tambor-100-litros/",
+   "to": "/produtos/pallets/pallet-contencao-1-tambor-100-litros/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-100-litros-redondo-com-pedal/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-100-litros-redondo-com-pedal/"
+  },
+  {
+   "from": "/produto/pallet-contencao-2-tambores-75-litros/",
+   "to": "/produtos/pallets/pallet-contencao-2-tambores-75-litros/"
+  },
+  {
+   "from": "/produto/pallet-contencao-2-tambores-255/",
+   "to": "/produtos/pallets/pallet-contencao-2-tambores-255-litros/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-100-litros-redondo/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-100-litros-redondo/"
+  },
+  {
+   "from": "/produto/pallet-contencao-4-tambores-150-litros/",
+   "to": "/produtos/pallets/pallet-contencao-4-tambores-150-litros/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-60-litros-redonda-com-pedal/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-60-litros-redondo-com-pedal/"
+  },
+  {
+   "from": "/produto/pallet-contencao-4-tambores-420-litros/",
+   "to": "/produtos/pallets/pallet-contencao-4-tambores-420-litros/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-60-litros-redondo/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-60-litros-redondo/"
+  },
+  {
+   "from": "/produto/pallet-plastico-klt/",
+   "to": "/produtos/pallets/pallet-plastico-klt/"
+  },
+  {
+   "from": "/produto/tampa-caixa-glt-pallet/",
+   "to": "/produtos/pallets/tampa-caixa-glt-pallet/"
+  },
+  {
+   "from": "/produto/caixa-pallet-glt/",
+   "to": "/produtos/pallets/caixa-pallet-glt/"
+  },
+  {
+   "from": "/produto/carro-cuba-430-litros/",
+   "to": "/produtos/containers-e-carros/carro-cuba-430-litros/"
+  },
+  {
+   "from": "/produto/carro-cuba-180-litros/",
+   "to": "/produtos/containers-e-carros/carro-cuba-180-litros/"
+  },
+  {
+   "from": "/produto/carro-para-caixa-180-litros/",
+   "to": "/produtos/containers-e-carros/carro-para-caixa-180-litros/"
+  },
+  {
+   "from": "/produto/carro-coletor-370-litros/",
+   "to": "/produtos/containers-e-carros/carro-coletor-370-litros/"
+  },
+  {
+   "from": "/produto/caixa-plastica-370-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-plastica-370-litros/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-23-litros-com-tampa-basculante/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-23-litros-com-tampa-basculante/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-23-litros-com-tampa-flip-top/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-23-litros-com-tampa-flip-top/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-23-litros/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-23-litros/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-15-litros-com-tampa-basculante/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-15-litros-com-tampa-basculante/"
+  },
+  {
+   "from": "/produto/lixeira-quadrada-25-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-quadrada-25-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/lixeira-quadrada-100-litros-c-pedal-e-rodas/",
+   "to": "/produtos/lixeiras/lixeira-quadrada-100-litros-com-pedal-e-rodas/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-15-litros-com-tampa-flip-top/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-15-litros-com-tampa-flip-top/"
+  },
+  {
+   "from": "/produto/lixeira-quadrada-60-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-quadrada-60-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/lixeira-quadrada-30-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-quadrada-30-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/cesto-de-lixo-15-litros/",
+   "to": "/produtos/lixeiras/cesto-de-lixo-15-litros/"
+  },
+  {
+   "from": "/produto/lixeira-quadrada-15-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-quadrada-15-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/container-rotomoldado-500-litros-com-pedal/",
+   "to": "/produtos/containers-e-carros/container-rotomoldado-500-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-6-lixeiras-60-litros/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-6-lixeiras-60-litros/"
+  },
+  {
+   "from": "/produto/container-rotomoldado-500-litros/",
+   "to": "/produtos/containers-e-carros/container-rotomoldado-500-litros/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-5-lixeiras-60-litros/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-5-lixeiras-60-litros/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-4-lixeiras-60-litros/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-4-lixeiras-60-litros/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-2-lixeiras-60-litros-2/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-3-lixeiras-60-litros/"
+  },
+  {
+   "from": "/produto/container-rotomoldado-700-litros-com-pedal/",
+   "to": "/produtos/containers-e-carros/container-rotomoldado-700-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-2-lixeiras-60-litros/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-2-lixeiras-60-litros/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-6-papeleiras-50-litros/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-6-papeleiras-50-litros/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-5-papeleiras-50-litros/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-5-papeleiras-50-litros/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-4-papeleiras/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-4-papeleiras/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-3-papeleiras-50-litros/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-3-papeleiras-50-litros/"
+  },
+  {
+   "from": "/produto/conjunto-coleta-seletiva-2-papeleiras-50-litros/",
+   "to": "/produtos/lixeiras/conjunto-coleta-seletiva-2-papeleiras-50-litros/"
+  },
+  {
+   "from": "/produto/lixeira-papeleira-50-litros-c-poste/",
+   "to": "/produtos/lixeiras/lixeira-papeleira-50-litros-com-poste/"
+  },
+  {
+   "from": "/produto/lixeira-papeleira-50-litros/",
+   "to": "/produtos/lixeiras/lixeira-papeleira-50-litros/"
+  },
+  {
+   "from": "/produto/lixeira-plastica-360-litros/",
+   "to": "/produtos/lixeiras/lixeira-plastica-360-litros/"
+  },
+  {
+   "from": "/produto/lixeira-240-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-240-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/lixeira-plastica-240-litros/",
+   "to": "/produtos/lixeiras/lixeira-plastica-240-litros/"
+  },
+  {
+   "from": "/produto/lixeira-plastica-120-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-plastica-120-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/cesto-plastico-50-litros-c-tampa-vai-vem/",
+   "to": "/produtos/lixeiras/lixeira-plastica-120-litros/"
+  },
+  {
+   "from": "/produto/container-rotomoldado-700-litros/",
+   "to": "/produtos/containers-e-carros/container-rotomoldado-700-litros/"
+  },
+  {
+   "from": "/produto/container-rotomoldado-1000-litros-com-pedal/",
+   "to": "/produtos/containers-e-carros/container-rotomoldado-1000-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/container-rotomoldado-1000-litros/",
+   "to": "/produtos/containers-e-carros/container-rotomoldado-1000-litros/"
+  },
+  {
+   "from": "/produto/container-1000-litros-com-tampa-bipartida/",
+   "to": "/produtos/containers-e-carros/container-rotomoldado-1000-litros-com-tampa-bipartida/"
+  },
+  {
+   "from": "/produto/container-plasticos-1000-litros-com-pedal/",
+   "to": "/produtos/containers-e-carros/container-plastico-1000-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/container-plastico-1000-litros/",
+   "to": "/produtos/containers-e-carros/container-plastico-1000-litros/"
+  },
+  {
+   "from": "/produto/container-plastico-660-litros-com-pedal/",
+   "to": "/produtos/containers-e-carros/container-plastico-660-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/container-plastico-660-litros/",
+   "to": "/produtos/containers-e-carros/container-plastico-660-litros/"
+  },
+  {
+   "from": "/produto/cesto-plastico-empilhavel-medio/",
+   "to": "/produtos/cestos-e-gaveteiros/cesto-plastico-empilhavel-medio/"
+  },
+  {
+   "from": "/produto/cesto-plastico-empilhavel-pequeno/",
+   "to": "/produtos/cestos-e-gaveteiros/cesto-plastico-empilhavel-pequeno/"
+  },
+  {
+   "from": "/produto/lixeira-100-litros-c-tampa-basculante/",
+   "to": "/produtos/lixeiras/lixeira-rotomoldada-100-litros-com-tampa-basculante/"
+  },
+  {
+   "from": "/produto/lixeira-60-litros-c-tampa-baculante/",
+   "to": "/produtos/lixeiras/lixeira-60-litros-com-tampa-basculante/"
+  },
+  {
+   "from": "/produto/gaveteiro-08/",
+   "to": "/produtos/cestos-e-gaveteiros/gaveteiro-08/"
+  },
+  {
+   "from": "/produto/lixeira-25-litros-c-tampa-vai-vem/",
+   "to": "/produtos/lixeiras/lixeira-25-litros-com-tampa-vai-e-vem/"
+  },
+  {
+   "from": "/produto/gaveteiro-07/",
+   "to": "/produtos/cestos-e-gaveteiros/gaveteiro-07/"
+  },
+  {
+   "from": "/produto/lixeira-60-litros-c-tampa-vai-vem/",
+   "to": "/produtos/lixeiras/lixeira-60-litros-com-tampa-vai-e-vem/"
+  },
+  {
+   "from": "/produto/gaveteiro-06/",
+   "to": "/produtos/cestos-e-gaveteiros/gaveteiro-06/"
+  },
+  {
+   "from": "/produto/gaveteiro-05/",
+   "to": "/produtos/cestos-e-gaveteiros/gaveteiro-05/"
+  },
+  {
+   "from": "/produto/lixeira-c-tampa-vai-vem-100-litros/",
+   "to": "/produtos/lixeiras/lixeira-100-litros-com-tampa-vai-e-vem/"
+  },
+  {
+   "from": "/produto/gaveteiro-04/",
+   "to": "/produtos/cestos-e-gaveteiros/gaveteiro-04/"
+  },
+  {
+   "from": "/produto/gaveteiro-03/",
+   "to": "/produtos/cestos-e-gaveteiros/gaveteiro-03/"
+  },
+  {
+   "from": "/produto/lixeira-100-litros-c-pedal-e-rodas/",
+   "to": "/produtos/lixeiras/lixeira-100-litros-com-pedal-e-rodas/"
+  },
+  {
+   "from": "/produto/lixeira-100-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-100-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/lixeira-50-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-50-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/lixeira-25-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-25-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/lixeira-15-litros-c-pedal/",
+   "to": "/produtos/lixeiras/lixeira-15-litros-com-pedal/"
+  },
+  {
+   "from": "/produto/pallet-plastico-liso-polietileno/",
+   "to": "/produtos/pallets/pallet-plastico-liso-polietileno/"
+  },
+  {
+   "from": "/produto/pallet-plastico-vazado-polietileno/",
+   "to": "/produtos/pallets/pallet-plastico-vazado-polietileno/"
+  },
+  {
+   "from": "/produto/pallet-plastico-liso-6-runerrs/",
+   "to": "/produtos/pallets/pallet-plastico-liso-6-runners/"
+  },
+  {
+   "from": "/produto/pallet-plastico-liso-3-runners/",
+   "to": "/produtos/pallets/pallet-plastico-liso-3-runners/"
+  },
+  {
+   "from": "/produto/pallet-plastico-liso/",
+   "to": "/produtos/pallets/pallet-plastico-liso/"
+  },
+  {
+   "from": "/produto/pallet-plastico-heavy/",
+   "to": "/produtos/pallets/pallet-plastico-heavy/"
+  },
+  {
+   "from": "/produto/pallet-plastico-empilhavel/",
+   "to": "/produtos/pallets/pallet-plastico-empilhavel/"
+  },
+  {
+   "from": "/produto/pallet-plastico-vazado-6-runners/",
+   "to": "/produtos/pallets/pallet-plastico-vazado-6-runners/"
+  },
+  {
+   "from": "/produto/pallet-plastico-vazado-3-runners/",
+   "to": "/produtos/pallets/pallet-plastico-vazado-3-runners/"
+  },
+  {
+   "from": "/produto/pallet-plastico-vazado/",
+   "to": "/produtos/pallets/pallet-plastico-vazado/"
+  },
+  {
+   "from": "/produto/caixa-alc-6437/",
+   "to": "/produtos/caixas-plasticas/caixa-alc-6437/"
+  },
+  {
+   "from": "/produto/caixa-galia-1322/",
+   "to": "/produtos/caixas-plasticas/caixa-galia-1322/"
+  },
+  {
+   "from": "/produto/caixa-rl-klt-6431/",
+   "to": "/produtos/caixas-plasticas/caixa-rl-klt-6431/"
+  },
+  {
+   "from": "/produto/caixa-r-klt-6428/",
+   "to": "/produtos/caixas-plasticas/caixa-r-klt-6428/"
+  },
+  {
+   "from": "/produto/caixa-rl-klt-6421/",
+   "to": "/produtos/caixas-plasticas/caixa-rl-klt-6421/"
+  },
+  {
+   "from": "/produto/estrado-40x40-cm/",
+   "to": "/produtos/estrados/estrado-40x40-cm/"
+  },
+  {
+   "from": "/produto/caixa-r-klt-4329/",
+   "to": "/produtos/caixas-plasticas/caixa-r-klt-4329/"
+  },
+  {
+   "from": "/produto/estrado-50x50x3-cm/",
+   "to": "/produtos/estrados/estrado-50x50x3-cm/"
+  },
+  {
+   "from": "/produto/estrado-41x82-cm/",
+   "to": "/produtos/estrados/estrado-41x82-cm/"
+  },
+  {
+   "from": "/produto/estrado-50x50-cm/",
+   "to": "/produtos/estrados/estrado-50x50-cm/"
+  },
+  {
+   "from": "/produto/estrado-25x50-cm/",
+   "to": "/produtos/estrados/estrado-25x50-cm/"
+  },
+  {
+   "from": "/produto/caixa-rl-klt-4322/",
+   "to": "/produtos/caixas-plasticas/caixa-rl-klt-4322/"
+  },
+  {
+   "from": "/produto/caixa-rl-klt4315/",
+   "to": "/produtos/caixas-plasticas/caixa-rl-klt4315/"
+  },
+  {
+   "from": "/produto/caixa-r-klt-4315/",
+   "to": "/produtos/caixas-plasticas/caixa-r-klt-4315/"
+  },
+  {
+   "from": "/produto/caixa-r-klt-3215/",
+   "to": "/produtos/caixas-plasticas/caixa-r-klt-3215/"
+  },
+  {
+   "from": "/produto/caixa-rl-klt3147/",
+   "to": "/produtos/caixas-plasticas/caixa-rl-klt-3147/"
+  },
+  {
+   "from": "/produto/caixa-frigorifico-42-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-frigorifica-42-litros/"
+  },
+  {
+   "from": "/produto/caixa-hortifruti-vazada-46-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-hortifruti-vazada-46-litros/"
+  },
+  {
+   "from": "/produto/caixa-vazada-hfg/",
+   "to": "/produtos/caixas-plasticas/caixa-vazada-hfg/"
+  },
+  {
+   "from": "/produto/caixa-vazada-33-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-vazada-33-litros/"
+  },
+  {
+   "from": "/produto/caixa-vazada-46-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-vazada-46-litros/"
+  },
+  {
+   "from": "/produto/caixa-vazada-60-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-vazada-60-litros/"
+  },
+  {
+   "from": "/produto/caixa-vazada-46-litros-fundo-fechadoduraflex-fiberglass-hood-2/",
+   "to": "/produtos/caixas-plasticas/caixa-vazada-46-litros-fundo-fechado/"
+  },
+  {
+   "from": "/produto/caixa-fechada-46-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-46-litros/"
+  },
+  {
+   "from": "/produto/caixa-vazada-47-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-vazada-47-litros/"
+  },
+  {
+   "from": "/produto/caixa-fechada-42-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-4-2-litros/"
+  },
+  {
+   "from": "/produto/caixa-fechada-7-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-7-litros/"
+  },
+  {
+   "from": "/produto/caixa-fechada-15-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-15-litros/"
+  },
+  {
+   "from": "/produto/caixa-fechada-26-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-26-litros/"
+  },
+  {
+   "from": "/produto/caixa-fechada-36-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-36-litros/"
+  },
+  {
+   "from": "/produto/caixa-fechada-61-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-61-litros/"
+  },
+  {
+   "from": "/produto/caixa-fechada-130-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-130-litros-76/"
+  },
+  {
+   "from": "/produto/caixa-fechada-180-litros/",
+   "to": "/produtos/caixas-plasticas/caixa-fechada-180-litros/"
+  },
+  {
+   "from": "/product-category/caixas-plasticas/",
+   "to": "/produtos/caixas-plasticas/"
+  },
+  {
+   "from": "/product-category/caixas-vazadas/",
+   "to": "/produtos/caixas-plasticas/caixas-vazadas/"
+  },
+  {
+   "from": "/product-category/caixas-plasticas/caixas-vazadas/",
+   "to": "/produtos/caixas-plasticas/caixas-vazadas/"
+  },
+  {
+   "from": "/product-category/caixas-fechadas/",
+   "to": "/produtos/caixas-plasticas/caixas-fechadas/"
+  },
+  {
+   "from": "/product-category/caixas-plasticas/caixas-fechadas/",
+   "to": "/produtos/caixas-plasticas/caixas-fechadas/"
+  },
+  {
+   "from": "/product-category/caixas-klt/",
+   "to": "/produtos/caixas-plasticas/caixas-klt/"
+  },
+  {
+   "from": "/product-category/caixas-plasticas/caixas-klt/",
+   "to": "/produtos/caixas-plasticas/caixas-klt/"
+  },
+  {
+   "from": "/product-category/bandejas/",
+   "to": "/produtos/bandejas/"
+  },
+  {
+   "from": "/product-category/lixeiras/",
+   "to": "/produtos/lixeiras/"
+  },
+  {
+   "from": "/product-category/coleta-seletiva/",
+   "to": "/produtos/lixeiras/coleta-seletiva/"
+  },
+  {
+   "from": "/product-category/lixeiras/coleta-seletiva/",
+   "to": "/produtos/lixeiras/coleta-seletiva/"
+  },
+  {
+   "from": "/product-category/lixeiras-com-pedal/",
+   "to": "/produtos/lixeiras/lixeiras-com-pedal/"
+  },
+  {
+   "from": "/product-category/lixeiras/lixeiras-com-pedal/",
+   "to": "/produtos/lixeiras/lixeiras-com-pedal/"
+  },
+  {
+   "from": "/product-category/lixeiras-basculante/",
+   "to": "/produtos/lixeiras/lixeiras-basculantes/"
+  },
+  {
+   "from": "/product-category/lixeiras/lixeiras-basculante/",
+   "to": "/produtos/lixeiras/lixeiras-basculantes/"
+  },
+  {
+   "from": "/product-category/lixeiras-plastica/",
+   "to": "/produtos/lixeiras/lixeiras-plasticas/"
+  },
+  {
+   "from": "/product-category/lixeiras/lixeiras-plastica/",
+   "to": "/produtos/lixeiras/lixeiras-plasticas/"
+  },
+  {
+   "from": "/product-category/pallets/",
+   "to": "/produtos/pallets/"
+  },
+  {
+   "from": "/product-category/pallets-plastico/",
+   "to": "/produtos/pallets/pallets-plasticos/"
+  },
+  {
+   "from": "/product-category/pallets/pallets-plastico/",
+   "to": "/produtos/pallets/pallets-plasticos/"
+  },
+  {
+   "from": "/product-category/pallets-contencao/",
+   "to": "/produtos/pallets/pallets-de-contencao/"
+  },
+  {
+   "from": "/product-category/pallets/pallets-contencao/",
+   "to": "/produtos/pallets/pallets-de-contencao/"
+  },
+  {
+   "from": "/product-category/pallets-rotomodaldo/",
+   "to": "/produtos/pallets/pallets-rotomoldados/"
+  },
+  {
+   "from": "/product-category/pallets/pallets-rotomodaldo/",
+   "to": "/produtos/pallets/pallets-rotomoldados/"
+  },
+  {
+   "from": "/product-category/containners-e-carros/",
+   "to": "/produtos/containers-e-carros/"
+  },
+  {
+   "from": "/product-category/carrinho-de-limpeza/",
+   "to": "/produtos/containers-e-carros/carrinhos-de-limpeza/"
+  },
+  {
+   "from": "/product-category/containners-e-carros/carrinho-de-limpeza/",
+   "to": "/produtos/containers-e-carros/carrinhos-de-limpeza/"
+  },
+  {
+   "from": "/product-category/estrados/",
+   "to": "/produtos/estrados/"
+  },
+  {
+   "from": "/product-category/cestos-e-gaveteiros/",
+   "to": "/produtos/cestos-e-gaveteiros/"
+  },
+  {
+   "from": "/product-category/cestos/",
+   "to": "/produtos/cestos-e-gaveteiros/cestos/"
+  },
+  {
+   "from": "/product-category/gaveteiros/",
+   "to": "/produtos/cestos-e-gaveteiros/gaveteiros/"
+  },
+  {
+   "from": "/product-category/cestos-e-gaveteiros/gaveteiros/",
+   "to": "/produtos/cestos-e-gaveteiros/gaveteiros/"
+  },
+  {
+   "from": "/product-category/moveis-plasticos/",
+   "to": "/produtos/moveis-plasticos/"
+  },
+  {
+   "from": "/product-category/cadeiras/",
+   "to": "/produtos/moveis-plasticos/cadeiras/"
+  },
+  {
+   "from": "/product-category/moveis-plasticos/cadeiras/",
+   "to": "/produtos/moveis-plasticos/cadeiras/"
+  },
+  {
+   "from": "/product-category/mesas/",
+   "to": "/produtos/moveis-plasticos/mesas/"
+  },
+  {
+   "from": "/product-category/moveis-plasticos/mesas/",
+   "to": "/produtos/moveis-plasticos/mesas/"
+  },
+  {
+   "from": "/product-category/espreguicadeiras/",
+   "to": "/produtos/moveis-plasticos/espreguicadeiras/"
+  },
+  {
+   "from": "/product-category/moveis-plasticos/espreguicadeiras/",
+   "to": "/produtos/moveis-plasticos/espreguicadeiras/"
+  },
+  {
+   "from": "/product-category/banquetas/",
+   "to": "/produtos/moveis-plasticos/banquetas/"
+  },
+  {
+   "from": "/product-category/moveis-plasticos/banquetas/",
+   "to": "/produtos/moveis-plasticos/banquetas/"
+  },
+  {
+   "from": "/product-category/uncategorized/",
+   "to": "/produtos/"
+  },
+  {
+   "from": "/sobre-nos/",
+   "to": "/sobre/"
+  },
+  {
+   "from": "/fale-conosco/",
+   "to": "/contato/"
+  },
+  {
+   "from": "/faq/",
+   "to": "/contato/"
+  },
+  {
+   "from": "/shop/",
+   "to": "/produtos/"
+  },
+  {
+   "from": "/loja/",
+   "to": "/produtos/"
+  }
+ ],
+ "gone": [
+  "/author/lucelia/",
+  "/author/patricia/",
+  "/author/vidatec/",
+  "/blog-elements/",
+  "/blog/",
+  "/cart/",
+  "/category/accessories/",
+  "/category/sem-categoria/",
+  "/checkout-2/",
+  "/checkout/",
+  "/columns/",
+  "/compare/",
+  "/demo-header-type-1/",
+  "/demo-header-type-2/",
+  "/demo-header-type-3/",
+  "/follow-share-icon/",
+  "/google-maps/",
+  "/headphones-bluetooth-headphones-jaybird-tarah/",
+  "/home-accessories-v1/",
+  "/home-accessories-v2/",
+  "/home-accessories-v3/",
+  "/home-auto-parts-v1/",
+  "/home-auto-parts-v3/",
+  "/my-account-2/",
+  "/my-account/",
+  "/ola-mundo/",
+  "/order-tracking/",
+  "/pagina-exemplo/",
+  "/product-columns/",
+  "/product-deals/",
+  "/product-layout-grid/",
+  "/products-best-selling/",
+  "/products-featured/",
+  "/products-layout-list/",
+  "/products-on-sale/",
+  "/products-recent-review/",
+  "/products-recent/",
+  "/products-slider/",
+  "/products-top-rate/",
+  "/professional-tymphany-speakers/",
+  "/shop-ajax/",
+  "/shopping-cart/",
+  "/tabs-contents/",
+  "/the-best-smartphone-accessories/",
+  "/title/",
+  "/yith-compare/"
+ ]
+}

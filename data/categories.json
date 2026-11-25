@@ -1,0 +1,141 @@
+[
+ {
+  "slug": "caixas-plasticas",
+  "name": "Caixas plásticas",
+  "subcategories": [
+   {
+    "slug": "caixas-vazadas",
+    "name": "Caixas vazadas",
+    "count": 9
+   },
+   {
+    "slug": "caixas-fechadas",
+    "name": "Caixas fechadas",
+    "count": 20
+   },
+   {
+    "slug": "caixas-klt",
+    "name": "Caixas KLT",
+    "count": 10
+   }
+  ],
+  "count": 39
+ },
+ {
+  "slug": "bandejas",
+  "name": "Bandejas",
+  "subcategories": [],
+  "count": 5
+ },
+ {
+  "slug": "lixeiras",
+  "name": "Lixeiras",
+  "subcategories": [
+   {
+    "slug": "coleta-seletiva",
+    "name": "Coleta seletiva",
+    "count": 19
+   },
+   {
+    "slug": "lixeiras-com-pedal",
+    "name": "Lixeiras com pedal",
+    "count": 14
+   },
+   {
+    "slug": "lixeiras-basculantes",
+    "name": "Lixeiras basculantes",
+    "count": 5
+   },
+   {
+    "slug": "lixeiras-plasticas",
+    "name": "Lixeiras plásticas",
+    "count": 11
+   }
+  ],
+  "count": 50
+ },
+ {
+  "slug": "pallets",
+  "name": "Pallets",
+  "subcategories": [
+   {
+    "slug": "pallets-plasticos",
+    "name": "Pallets plásticos",
+    "count": 11
+   },
+   {
+    "slug": "pallets-de-contencao",
+    "name": "Pallets de contenção",
+    "count": 5
+   },
+   {
+    "slug": "pallets-rotomoldados",
+    "name": "Pallets rotomoldados",
+    "count": 2
+   }
+  ],
+  "count": 18
+ },
+ {
+  "slug": "containers-e-carros",
+  "name": "Containers e carros",
+  "subcategories": [
+   {
+    "slug": "carrinhos-de-limpeza",
+    "name": "Carrinhos de limpeza",
+    "count": 3
+   }
+  ],
+  "count": 18
+ },
+ {
+  "slug": "estrados",
+  "name": "Estrados",
+  "subcategories": [],
+  "count": 6
+ },
+ {
+  "slug": "cestos-e-gaveteiros",
+  "name": "Cestos e gaveteiros",
+  "subcategories": [
+   {
+    "slug": "cestos",
+    "name": "Cestos",
+    "count": 5
+   },
+   {
+    "slug": "gaveteiros",
+    "name": "Gaveteiros",
+    "count": 6
+   }
+  ],
+  "count": 11
+ },
+ {
+  "slug": "moveis-plasticos",
+  "name": "Móveis plásticos",
+  "subcategories": [
+   {
+    "slug": "cadeiras",
+    "name": "Cadeiras",
+    "count": 3
+   },
+   {
+    "slug": "mesas",
+    "name": "Mesas",
+    "count": 4
+   },
+   {
+    "slug": "espreguicadeiras",
+    "name": "Espreguiçadeiras",
+    "count": 2
+   },
+   {
+    "slug": "banquetas",
+    "name": "Banquetas",
+    "count": 2
+   }
+  ],
+  "count": 12
+ }
+]
