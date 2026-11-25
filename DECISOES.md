@@ -12,6 +12,8 @@ Registro de decisões do dono e de conflitos entre skills (briefing, seção 9.1
 | 25/11/2026 | O uso de **todas as fotos** está liberado, inclusive as que têm nome de fabricante no arquivo. |
 | 25/11/2026 | O dono **não tem referências externas** e aprovou a recomendação de estilo (`design/recomendacao.md`): "pode seguir com as suas ideias, qualquer coisa alteramos depois". |
 | 25/11/2026 | Cor de destaque: **azul** (#1F5FA8). |
+| 25/11/2026 | O dono gostou do visual "Ficha técnica" (produto grande com as medidas desenhadas) e pediu uma página inicial **mais criativa e interativa, com movimento**. Resposta: protótipo `design/prototipos/home/`. O movimento fica leve (SVG + ~10 KB de JavaScript, sem WebGL nem bibliotecas), para cumprir a regra "desempenho e acessibilidade vencem a estética". |
+| 25/11/2026 | "Desenho técnico" de cada produto gerado a partir da própria foto (detecção de arestas, `scripts/blueprint.py`). Não há gerador de fotos nesta sessão; nenhuma imagem de banco ou inventada foi usada. |
 | 25/11/2026 | Skills da Emil instaladas a partir do zip: só `emil-design-eng`, `review-animations`, `animation-performance`, `break-ui` e `prototype` (as de Swift, Expo e mobile ficaram de fora, como pede o briefing). |
 
 ## Decisões técnicas da fase (a)
@@ -33,6 +35,7 @@ Ordem de precedência do briefing: `frontend-design` > `design-taste-frontend` >
 | `design-taste-frontend`: "sorteie a paleta e o layout, nunca escolha por gosto" | **Vale o briefing (9.1.1).** Quem decide o visual é o dono, a partir das referências dele. O sorteio da skill pode, no máximo, gerar alternativas para a proposta. |
 | `design-taste-frontend`, regra 1: "nenhuma legenda sob imagens" | Nome e dados do produto no card são rótulo de catálogo, não legenda explicativa. Ficam. A regra vale para fotos de contexto (sem legenda decorativa). |
 | `design-taste-frontend`, regra 3: "uma seção por tela" | Vale na home e nas páginas de setor. **Não vale** no catálogo e na ficha técnica, que são telas de consulta (modo "Operate/Read" da `impeccable`): densidade de informação vence. |
+| `design-taste-frontend`: sem troca automática de abas/carrossel | **Vale o pedido do dono** (movimento no hero). A troca automática tem barra de progresso, botão de pausa, para ao primeiro toque do usuário, para fora da tela e fica desligada com "reduzir movimento". |
 | `design-taste-frontend`: "fotos substitutas de banco de imagens quando o cliente não tem" | Só com aprovação do dono e sempre identificadas como ilustrativas. Nunca passar foto de banco como produto ou cliente da PLAS. |
 | `impeccable`: o comando `impeccable context` baixa um binário na primeira execução | Não rodar sem necessidade. Ler `PRODUCT.md` e `DESIGN.md` direto (caminho previsto pela própria skill quando o lançador não roda). |
 | `design-taste-frontend` instala um gancho (hook) de checagem ao encerrar | Aceito quando a skill estiver em uso nas fases (b) e (c). As checagens dele que conflitam com as decisões acima são registradas como exceção (`.taste-skill/waivers.json`), com o motivo. |
